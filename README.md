@@ -1,1 +1,2 @@
-# L2socioGitbook
+# Initial page
+
