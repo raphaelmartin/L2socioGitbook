@@ -2,3 +2,10 @@
 
 [A lire pour le 24/09](https://books.openedition.org/pressesmines/916)
 
+---
+
+## Le raisonnement ethnographique — _S.BEAUD/F.WEBER_
+
+## Qu’est-ce que l’ethnographie ? — D.CEFAÏ
+
+## La sociologie d'enquête, in "Apprendre la sociologie par l'exemple" — SINGLY/GIRAUD/MARTIN
