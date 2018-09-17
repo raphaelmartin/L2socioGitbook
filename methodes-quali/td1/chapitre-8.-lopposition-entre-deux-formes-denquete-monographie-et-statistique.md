@@ -4,8 +4,10 @@
 
 ---
 
-## Le raisonnement ethnographique — _S.BEAUD/F.WEBER_
+## approfondissement
 
-## Qu’est-ce que l’ethnographie ? — D.CEFAÏ
+### Le raisonnement ethnographique — _S.BEAUD/F.WEBER_
 
-## La sociologie d'enquête, in "Apprendre la sociologie par l'exemple" — SINGLY/GIRAUD/MARTIN
+### Qu’est-ce que l’ethnographie ? — D.CEFAÏ
+
+### La sociologie d'enquête, in "Apprendre la sociologie par l'exemple" — SINGLY/GIRAUD/MARTIN
