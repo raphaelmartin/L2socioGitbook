@@ -10,6 +10,8 @@ description: >-
 
 Fiche de lecture
 
+---
+
 #### Le raisonnement ethnographique — _S.BEAUD/F.WEBER_
 
 #### Qu’est-ce que l’ethnographie ? — D.CEFAÏ
