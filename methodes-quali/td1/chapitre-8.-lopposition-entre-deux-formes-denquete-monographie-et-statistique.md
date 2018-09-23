@@ -8,7 +8,11 @@ description: >-
 
 [A lire pour le 24/09](https://books.openedition.org/pressesmines/916)
 
-Fiche de lecture
+On oppose classiquement méthodes quali/méthodes quanti. Pour Desrosières, ces 2 façons correspondent à 2 logiques bien différentes. Chacune étant composé d'un aspect politique (=le mode de gestion du monde social), et cognitif (=quel mode de généralisation ces enquêtes impliquent).
+
+Les critiques quanti VS quali se bornent souvent à l'aspect cognitif. On les connait: 
+* les quantitativistes critique à la quali de ne pouvoir être généraliser, inférer une connaissance valable pour un tout. Ils ont une conception de la totalité "exhaustive".
+* les qualitativistes reprochent à la quanti ses vastes totalisations qui comptent ensemble des choses "en fait" différentes. Pour eux, les procédures de codage aplatissent, isolent selon des crières qui doivent être vu comme des totalités, perçues globalement.
 
 ---
 
