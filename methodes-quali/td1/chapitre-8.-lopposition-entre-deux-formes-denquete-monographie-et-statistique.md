@@ -14,6 +14,10 @@ Les critiques quanti VS quali se bornent souvent à l'aspect cognitif. On les co
 * les quantitativistes critique à la quali de ne pouvoir être généraliser, inférer une connaissance valable pour un tout. Ils ont une conception de la totalité "exhaustive".
 * les qualitativistes reprochent à la quanti ses vastes totalisations qui comptent ensemble des choses "en fait" différentes. Pour eux, les procédures de codage aplatissent, isolent selon des crières qui doivent être vu comme des totalités, perçues globalement.
 
+Ces "dénonciations mutuelles", coincées au niveau seulement cognitif, montrent que ces 2 méthodes ne s'opposent pas comme petit/grand, micro/macro mais plutôt comme 2 façons différentes de construire la totalité. Chacune des 2 reprochent en effet à l'autre une totalité, mais ce n'est pas la même.
+
+Ce qui distingue réellement quanti/quali c'est la façon de construire des catégories (de pensées, d'actions) 
+
 ---
 
 #### Le raisonnement ethnographique — _S.BEAUD/F.WEBER_
