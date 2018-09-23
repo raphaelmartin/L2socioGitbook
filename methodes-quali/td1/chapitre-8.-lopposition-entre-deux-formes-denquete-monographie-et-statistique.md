@@ -32,3 +32,4 @@ Ainsi, ces 2 modes de construction de la généralité
 ## La sociologie d'enquête, in "Apprendre la sociologie par l'exemple" — SINGLY/GIRAUD/MARTIN
 
 ### **Choisir des "lunettes" sociologiques pour mieux voir la réalité sociale**
+
