@@ -18,7 +18,8 @@ Les **critiques** quanti VS quali se bornent souvent à l'aspect cognitif. Les a
 Ces "dénonciations mutuelles", coincées au niveau seulement cognitif, montrent que ces 2 méthodes ne s'opposent pas comme on le pense entre petit/grand, micro/macro mais plutôt comme 2 façons différentes de construire **la totalité**. Chacune des 2 reprochent en effet à l'autre de perdre une totalité, mais ce n'est pas _la même_.
 
 Ce qui distingue réellement quanti/quali c'est **la façon de construire des catégories** \(de pensées, d'actions\). Boltanski et Thévenot décrivaient **2 modes de généralisation**: l'un "domestique", et l'autre "industriel".  
-1. **Domestique**: centré sur la proximité, le temps long de l'apprentissage. C'est la connaissance monographique par exemple.   2. **Industriel**: lié aux conceptualisation formelles que la science a fournie. La connaissance est destinée à établir une transformation du monde social selon des modes standardisés.
+1. **Domestique**: centré sur la proximité, le temps long de l'apprentissage. C'est la connaissance monographique par exemple.  
+2. **Industriel**: lié aux conceptualisation formelles que la science a fournie. La connaissance est destinée à établir une transformation du monde social selon des modes standardisés.
 
 Un cliché persistant à balayer: le quali ne généraliserait pas, il serait dans "l'approfondissement". Hors, l'étude d'un cas typique est justement destiné ensuite à être généralisé. Que ce soit quanti ou quali, l'**ambition de généralisation** est présente.
 
