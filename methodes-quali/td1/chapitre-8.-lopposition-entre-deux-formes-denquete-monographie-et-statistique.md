@@ -25,6 +25,6 @@ Ce qui distingue réellement quanti/quali c'est **la façon de construire des ca
 
 Un cliché persistant à balayer: le quali ne généraliserait pas, il serait dans "l'approfondissement". Hors, l'étude d'un cas typique est justement destiné ensuite à être généralisé. Que ce soit quanti ou quali, l'**ambition de généralisation** est présente.
 
-Ainsi, ces 2 modes de construction de la généralité ont fait l'objet de combinaisons diverses. La statistique administrative, depuis Napoléon, quitte l'aspect monographique pour adopter le vocabulaire socio-économique national. Pour Desrosières, ça entraîne une déterritorialisation de la description du monde social, liée à la déterriorialisation de la gestion du monde social.
+Ainsi, ces 2 modes de construction de la généralité ont fait l'objet de **combinaisons** diverses. La statistique administrative, depuis Napoléon, quitte l'aspect monographique pour adopter le vocabulaire socio-économique national. Pour Desrosières, ça entraîne une **déterritorialisation de la description du monde social**, liée à la déterritorialisation de la gestion du monde social.
 
 > La distinction proposée entre 2 façons de construire la généralité permet de sortir des condamnations réciproques, auxquelles les confrontations de méthodes de recherche entraînent souvent, au profit d'une appréciation d'ensemble de multiples façons de construire et cumuler le savoir, que l'on ne peut séparer des montages de gens et de choses dans lesquels elles trouvent place. _(Latour, 1984)_
