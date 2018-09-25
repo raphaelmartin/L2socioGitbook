@@ -10,7 +10,7 @@
 
 ## Quanti
 
-* [Untitled](quanti-1/untitled.md)
+* [TD1](quanti-1/untitled.md)
 
 ## Géographie historique et politique: pouvoirs et territoires
 
