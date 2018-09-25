@@ -10,7 +10,7 @@
 
 ## Quanti
 
-* [TD1](quanti-1/untitled.md)
+* [Du questionnement au questionnaire. Comment objectiver les faits sociaux?](quanti-1/untitled.md)
 
 ## Géographie historique et politique: pouvoirs et territoires
 
