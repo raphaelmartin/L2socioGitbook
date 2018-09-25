@@ -2,9 +2,17 @@
 
 * [Initial page](README.md)
 
-## méthodes quali
+## quali
 
-* [TD1](methodes-quali/td1/README.md)
-  * [Retour sur l'opposition méthodes quali/quanti](methodes-quali/td1/chapitre-8.-lopposition-entre-deux-formes-denquete-monographie-et-statistique.md)
-  * [approfondissement](methodes-quali/td1/approfondissement.md)
+* [TD1](quali/td1/README.md)
+  * [Retour sur l'opposition méthodes quali/quanti](quali/td1/chapitre-8.-lopposition-entre-deux-formes-denquete-monographie-et-statistique.md)
+  * [approfondissement](quali/td1/approfondissement.md)
+
+## Quanti
+
+* [Untitled](quanti-1/untitled.md)
+
+## Géographie historique et politique: pouvoirs et territoires
+
+* [TD1 — Le temps en géographie : une part d’histoire?](quanti/td1-le-temps-en-geographie-une-part-dhistoire.md)
 
