@@ -10,10 +10,10 @@
 
 ## Quanti
 
-* [Du questionnement au questionnaire. Comment objectiver les faits sociaux?](quanti-1/untitled.md)
+* [Du questionnement au questionnaire. Comment objectiver les faits sociaux?](quanti/untitled.md)
 
 ## Géographie historique et politique: pouvoirs et territoires
 
-* [TD1 — Le temps en géographie : une part d’histoire?](quanti/td1-le-temps-en-geographie-une-part-dhistoire.md)
-* [TD2 — Géographie\(s\) et dimension politique des sociétés](quanti/td2-geographie-s-et-dimension-politique-des-societes.md)
+* [TD1 — Le temps en géographie : une part d’histoire?](geographie-historique-et-politique-pouvoirs-et-territoires/td1-le-temps-en-geographie-une-part-dhistoire.md)
+* [TD2 — Géographie\(s\) et dimension politique des sociétés](geographie-historique-et-politique-pouvoirs-et-territoires/td2-geographie-s-et-dimension-politique-des-societes.md)
 
