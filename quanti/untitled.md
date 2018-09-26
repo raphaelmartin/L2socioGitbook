@@ -15,7 +15,8 @@
 
 Texte de P. Barthelemy sur le changement climatique.
 
-Les données chiffrées = objectifs. Les mots, paroles = subjectifs. Un tel lieu commun est pourtant faux. Toute donnée chiffrée est un construit, il y a des convenions à la base de ces mesures. Par exemple, le "chômage" ne donne pas le même résultat suivant la définition du BIT ou celle de l'INSEE.
+Les données chiffrées = objectifs. Les mots, paroles = subjectifs.  
+Un tel lieu commun est pourtant faux. Toute donnée chiffrée est un construit, il y a des convenions à la base de ces mesures. Par exemple, le "chômage" ne donne pas le même résultat suivant la définition du BIT ou celle de l'INSEE.  
 Desrosières: "Quantifier, c'est d'abord convenir, puis dans un second temps mesurer"
 
 # La démarche générale d'une enquête
