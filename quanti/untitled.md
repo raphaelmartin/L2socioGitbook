@@ -2,8 +2,6 @@
 
 **Sujet de l’enquête** : Les étudiants en première ou en deuxième année à l’université Paris VI – Jussieu, physique \(Faculté des Sciences\)
 
-## CHAPITRE 1. DU QUESTIONNEMENT AU QUESTIONNAIRE. COMMENT OBJECTIVER LES FAITS SOCIAUX?
-
 * Présentation syllabus
 * Présentation de l’enquête Paris VI
 * évaluation de la formation par les étudiants L1- L2 de physique
