@@ -1,4 +1,4 @@
-# TD1
+# TD1 — retour sur l'opposition méthodes quali/quanti
 
 **Thème**: sociologue de la justice _22 octobre:_ la cité judiciaire 5nov: compte rendu d'observation
 
@@ -25,8 +25,6 @@ Lire le texte de Desrosières. quali/quanti.
 
 ---
 
-# Retour sur l'opposition méthodes quali/quanti
-
 ## Chapitre 8. L’opposition entre deux formes d’enquête : monographie et statistique
 
 [A lire pour le 24/09](https://books.openedition.org/pressesmines/916)
@@ -50,4 +48,12 @@ Ainsi, ces 2 modes de construction de la généralité ont fait l'objet de **com
 
 > La distinction proposée entre 2 façons de construire la généralité permet de sortir des condamnations réciproques, auxquelles les confrontations de méthodes de recherche entraînent souvent, au profit d'une appréciation d'ensemble de multiples façons de construire et cumuler le savoir, que l'on ne peut séparer des montages de gens et de choses dans lesquels elles trouvent place. _\(Latour, 1984\)_
 
+# approfondissement
 
+## Le raisonnement ethnographique — _S.BEAUD/F.WEBER_
+
+## Qu’est-ce que l’ethnographie ? — D.CEFAÏ
+
+## La sociologie d'enquête, in "Apprendre la sociologie par l'exemple" — SINGLY/GIRAUD/MARTIN
+
+### **Choisir des "lunettes" sociologiques pour mieux voir la réalité sociale**
