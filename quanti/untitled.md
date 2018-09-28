@@ -6,8 +6,8 @@
 * Présentation de l’enquête Paris VI
 * évaluation de la formation par les étudiants L1- L2 de physique
 * Accueil, orientation, mode de vie, expression en classe
-* Déconstruction de l’association quantitatif/objectif
-* Cheminement d’une enquête quantitative
+* **Déconstruction de l’association quantitatif/objectif**
+* **Cheminement d’une enquête quantitative**
 
 > «Avant d’être traduits en chiffres, les faits sociaux sont observés, décrits et analysés au cours de plusieurs opérations dont la maîtrise rigoureuse conditionne la précision et la signification des statistiques auxquelles elles aboutiront par la suite» \(Selz et Maillochon, 2009, p.94\).”
 
