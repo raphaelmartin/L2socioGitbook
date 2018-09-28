@@ -4,9 +4,7 @@
 
 ## quali
 
-* [TD1](quali/td1/README.md)
-  * [Retour sur l'opposition méthodes quali/quanti](quali/td1/chapitre-8.-lopposition-entre-deux-formes-denquete-monographie-et-statistique.md)
-  * [approfondissement](quali/td1/approfondissement.md)
+* [TD1 — retour sur l'opposition méthodes quali/quanti](quali/td1.md)
 
 ## Quanti
 
