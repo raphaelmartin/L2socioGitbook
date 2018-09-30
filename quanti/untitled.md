@@ -32,7 +32,11 @@ Une question de définition:
 
 ### __in__, "Le Questionnaire" de F.__DE SINGLY__, (Introduction, chap1: Pourquoi produire des chiffres?)
 
-"Au chiffres la patrie reconnaissante": nous vivons dans une société où ce sont les chiffres qui orientent l'actions des citoyens et qui servent d'argument majeur. S'est imposé progressivement dans les pays occidentaux, le réalisme scientifique (=la bonne représentation de la réalité doit passer par le chiffre)
+"Au chiffres la patrie reconnaissante": nous vivons dans une société où ce sont les chiffres qui orientent l'action des citoyens et qui servent d'argument majeur. S'est imposé progressivement dans les pays occidentaux, le réalisme scientifique (=la bonne représentation de la réalité doit passer par le chiffre). En France, pendant les années '60, la sociologie s'est également convertie, au moins en partie, à une connaisance empirique, systématique de la réalité par le recours aux données quanti.
+
+La découverte des chiffres qui circulent dans les sociétés démo. et de leur fonction sociale commence par distinguer les chiffres descriptifs des chiffres explicatifs.
+
+**Les chiffres "descriptifs"**  
 
 ## La démarche générale d'une enquête
 
