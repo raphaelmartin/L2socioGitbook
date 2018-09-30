@@ -37,6 +37,8 @@ Une question de définition:
 La découverte des chiffres qui circulent dans les sociétés démo. et de leur fonction sociale commence par distinguer les chiffres descriptifs des chiffres explicatifs.
 
 **Les chiffres "descriptifs"**  
+2 catégories de chiffres descriptifs:  
+* Dénombrer: ceux qui ont pour ambition affichée d'être le plus précis possible. Ex: recensement de la population, l'audimat... Mais illusion de croire à leur neutralité. Il y a toujours obligation de définir les contours de ce qui doit être mesuré (c.f: chiffres du chômage selon INSEE/PôleEmploi). Il faut se mettre d'accord sur ce qui signifie la recherche d'un emploi -> définitions qui agissent comme des énoncés performatifs, en contribuant à créer la réalité sociale. Ainsi, la production des chiffres requiert toujours une **médiation**: de nomenclatures, de classements, de décisions. La question de la fiabilité des chiffres oublient celle du "pourquoi compter?", "à quels usages servira le comptage?".
 
 ## La démarche générale d'une enquête
 
