@@ -34,7 +34,7 @@ Une question de définition:
 
 "Au chiffres la patrie reconnaissante": nous vivons dans une société où ce sont les chiffres qui orientent l'action des citoyens et qui servent d'argument majeur. S'est imposé progressivement dans les pays occidentaux, le réalisme scientifique (=la bonne représentation de la réalité doit passer par le chiffre). En France, pendant les années '60, la sociologie s'est également convertie, au moins en partie, à une connaisance empirique, systématique de la réalité par le recours aux données quanti.
 
-La découverte des chiffres qui circulent dans les sociétés démo. et de leur fonction sociale commence par distinguer les chiffres descriptifs des chiffres explicatifs.
+La découverte des chiffres qui circulent dans les sociétés démo. et de leur fonction sociale commence par distinguer les chiffres descriptifs des chiffres explicatifs. Le questionnaire étant du second type.
 
 **Les chiffres "descriptifs"**
 
@@ -46,7 +46,9 @@ C'est sur cette production d'une opinion majoritaire/effet de consensus que se s
 
 **Les chiffres "explicatifs"**
 
-Le rôle de la statistique
+La statistique est une technique privilégiée pour la mise en évidence à la fois des faits sociaux et des facteurs qui les déterminent. Dans le réel, le social est mélangé à l'individuel, au subjectif. La statistique est une méthode pour les isoler, puis pour rechercher leurs causes.
+
+
 
 ## La démarche générale d'une enquête
 
