@@ -36,10 +36,17 @@ Une question de définition:
 
 La découverte des chiffres qui circulent dans les sociétés démo. et de leur fonction sociale commence par distinguer les chiffres descriptifs des chiffres explicatifs.
 
-**Les chiffres "descriptifs"**  
+**Les chiffres "descriptifs"**
+
 2 catégories de chiffres descriptifs:  
-* Dénombrer: ceux qui ont pour ambition affichée d'être le plus précis possible. Ex: recensement de la population, l'audimat... Mais illusion de croire à leur neutralité. Il y a toujours obligation de définir les contours de ce qui doit être mesuré (c.f: chiffres du chômage selon INSEE/PôleEmploi). Il faut se mettre d'accord sur ce qui signifie la recherche d'un emploi -> définitions qui agissent comme des énoncés performatifs, en contribuant à créer la réalité sociale. Ainsi, la production des chiffres requiert toujours une **médiation**: de nomenclatures, de classements, de décisions. La question de la fiabilité des chiffres oublient celle du "pourquoi compter?", "à quels usages servira le comptage?".
-* Sonder: les données publiées dans les journaux par les sondages. Les usages sociaux des sondages d'opinion s'alignent sur le suffrage universel. Comme la parole du peuple est légitime, les sondages contribuent à son intervention dans les débats publics. Mais Pierre Bourdieu réfute cette vision dans son ouvrage "L'opinion publique n'existe pas". Pour lui, les sondages imposent aux personnes de répondre à des questions que le plus souvent elles ne se posent pas. L'opinion publique est construite.
+1. Dénombrer: ceux qui ont pour ambition affichée d'être le plus précis possible. Ex: recensement de la population, l'audimat... Mais illusion de croire à leur neutralité. Il y a toujours obligation de définir les contours de ce qui doit être mesuré (c.f: chiffres du chômage selon INSEE/PôleEmploi). Il faut se mettre d'accord sur ce qui signifie la recherche d'un emploi -> définitions qui agissent comme des énoncés performatifs, en contribuant à créer la réalité sociale. Ainsi, la production des chiffres requiert toujours une **médiation**: de nomenclatures, de classements, de décisions. La question de la fiabilité des chiffres oublient celle du "pourquoi compter?", "à quels usages servira le comptage?".
+2. Sonder: les données publiées dans les journaux par les sondages. Les usages sociaux des sondages d'opinion s'alignent sur le suffrage universel. Comme la parole du peuple est légitime, les sondages contribuent à son intervention dans les débats publics. Mais Pierre Bourdieu réfute cette vision dans son ouvrage "L'opinion publique n'existe pas". Pour lui, les sondages imposent aux personnes de répondre à des questions que le plus souvent elles ne se posent pas. L'opinion publique est construite.
+
+C'est sur cette production d'une opinion majoritaire/effet de consensus que se séparent le plus sondage d'opinion et enquête sociologique par questionnaire. L'enquête ne cherche pas à produire le chiffre qui parle de lui-même, mais rendre compte d'une activité/opinion en dévoilant les facteurs qui l'influent.
+
+**Les chiffres "explicatifs"**
+
+Le rôle de la statistique
 
 ## La démarche générale d'une enquête
 
