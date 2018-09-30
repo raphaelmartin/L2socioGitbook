@@ -30,7 +30,9 @@ Une question de définition:
   * Avoir cherché activement un emploi dans le mois précédent ou en avoir trouvé un qui commence dans moins de trois mois »
   * L’INSEE se base parfois aussi sur les chiffres du recensement. Les chômeurs sont alors « les personnes \(de 15 ans ou plus\) qui se sont déclarées chômeurs \(inscrits ou non à Pôle Emploi\) sauf si elles ont, en outre, déclaré explicitement ne pas rechercher de travail; et d’autre part les personnes \(âgées de 15 ans ou plus\) qui ne se sont déclarées spontanément ni en emploi, ni en chômage mais qui ont néanmoins déclaré rechercher un emploi » \(INSEE\)
 
+### __in__, "Le Questionnaire" de F.__DE SINGLY__, (Introduction, chap1: Pourquoi produire des chiffres?)
 
+"Au chiffres la patrie reconnaissante": nous vivons dans une société où ce sont les chiffres qui orientent l'actions des citoyens et qui servent d'argument majeur. S'est imposé progressivement dans les pays occidentaux, le réalisme scientifique (=la bonne représentation de la réalité doit passer par le chiffre)
 
 ## La démarche générale d'une enquête
 
