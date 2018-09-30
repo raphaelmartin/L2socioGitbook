@@ -55,3 +55,4 @@ La statistique est une technique privilégiée pour la mise en évidence à la f
 **Le choix de la méthode/les motivations des pratiques**
 
 ## La démarche générale d'une enquête
+
