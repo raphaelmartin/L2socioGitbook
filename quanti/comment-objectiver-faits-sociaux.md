@@ -19,7 +19,7 @@ Desrosières: "Quantifier, c'est d'abord convenir, puis dans un second temps mes
 
 * L’exemple des chiffres du chômage:
 
-En juillet 2015, Pôle emploi compte 6 432 200 demandeurs d’emploi en France. Pour le 2ème trimestre 2015, l’INSEE dénombre 2 900 000 chômeurs environ en France. Même époque, même population...mais des chiffres différents?  
+En juillet 2015, Pôle emploi compte 6 432 200 demandeurs d’emploi en France. Pour le 2ème trimestre 2015, l’INSEE dénombre 2 900 000 chômeurs environ en France. Même époque, même population...mais des chiffres différents?
 
 Une question de définition:
 
@@ -30,17 +30,16 @@ Une question de définition:
   * Avoir cherché activement un emploi dans le mois précédent ou en avoir trouvé un qui commence dans moins de trois mois »
   * L’INSEE se base parfois aussi sur les chiffres du recensement. Les chômeurs sont alors « les personnes \(de 15 ans ou plus\) qui se sont déclarées chômeurs \(inscrits ou non à Pôle Emploi\) sauf si elles ont, en outre, déclaré explicitement ne pas rechercher de travail; et d’autre part les personnes \(âgées de 15 ans ou plus\) qui ne se sont déclarées spontanément ni en emploi, ni en chômage mais qui ont néanmoins déclaré rechercher un emploi » \(INSEE\)
 
-## __in__, "Le Questionnaire" de F.__DE SINGLY__, (Introduction, chap1: Pourquoi produire des chiffres?)
+## **in**, "Le Questionnaire" de F.**DE SINGLY**, \(Introduction, chap1: Pourquoi produire des chiffres?\)
 
-"Au chiffres la patrie reconnaissante": nous vivons dans une société où ce sont les chiffres qui orientent l'action des citoyens et qui servent d'argument majeur. S'est imposé progressivement dans les pays occidentaux, le réalisme scientifique (=la bonne représentation de la réalité doit passer par le chiffre). En France, pendant les années '60, la sociologie s'est également convertie, au moins en partie, à une connaisance empirique, systématique de la réalité par le recours aux données quanti.
+"Au chiffres la patrie reconnaissante": nous vivons dans une société où ce sont les chiffres qui orientent l'action des citoyens et qui servent d'argument majeur. S'est imposé progressivement dans les pays occidentaux, le réalisme scientifique \(=la bonne représentation de la réalité doit passer par le chiffre\). En France, pendant les années '60, la sociologie s'est également convertie, au moins en partie, à une connaisance empirique, systématique de la réalité par le recours aux données quanti.
 
 La découverte des chiffres qui circulent dans les sociétés démo. et de leur fonction sociale commence par distinguer les chiffres descriptifs des chiffres explicatifs. Le questionnaire étant du second type.
 
 ### Les chiffres "descriptifs"
 
 2 catégories de chiffres descriptifs:  
-1. Dénombrer: ceux qui ont pour ambition affichée d'être le plus précis possible. Ex: recensement de la population, l'audimat... Mais illusion de croire à leur neutralité. Il y a toujours obligation de définir les contours de ce qui doit être mesuré (c.f: chiffres du chômage selon INSEE/PôleEmploi). Il faut se mettre d'accord sur ce qui signifie la recherche d'un emploi -> définitions qui agissent comme des énoncés performatifs, en contribuant à créer la réalité sociale. Ainsi, la production des chiffres requiert toujours une **médiation**: de nomenclatures, de classements, de décisions. La question de la fiabilité des chiffres oublient celle du "pourquoi compter?", "à quels usages servira le comptage?".
-2. Sonder: les données publiées dans les journaux par les sondages. Les usages sociaux des sondages d'opinion s'alignent sur le suffrage universel. Comme la parole du peuple est légitime, les sondages contribuent à son intervention dans les débats publics. Mais Pierre Bourdieu réfute cette vision dans son ouvrage "L'opinion publique n'existe pas". Pour lui, les sondages imposent aux personnes de répondre à des questions que le plus souvent elles ne se posent pas. L'opinion publique est construite.
+1. Dénombrer: ceux qui ont pour ambition affichée d'être le plus précis possible. Ex: recensement de la population, l'audimat... Mais illusion de croire à leur neutralité. Il y a toujours obligation de définir les contours de ce qui doit être mesuré \(c.f: chiffres du chômage selon INSEE/PôleEmploi\). Il faut se mettre d'accord sur ce qui signifie la recherche d'un emploi -&gt; définitions qui agissent comme des énoncés performatifs, en contribuant à créer la réalité sociale. Ainsi, la production des chiffres requiert toujours une **médiation**: de nomenclatures, de classements, de décisions. La question de la fiabilité des chiffres oublient celle du "pourquoi compter?", "à quels usages servira le comptage?". 2. Sonder: les données publiées dans les journaux par les sondages. Les usages sociaux des sondages d'opinion s'alignent sur le suffrage universel. Comme la parole du peuple est légitime, les sondages contribuent à son intervention dans les débats publics. Mais Pierre Bourdieu réfute cette vision dans son ouvrage "L'opinion publique n'existe pas". Pour lui, les sondages imposent aux personnes de répondre à des questions que le plus souvent elles ne se posent pas. L'opinion publique est construite.
 
 C'est sur cette production d'une opinion majoritaire/effet de consensus que se séparent le plus sondage d'opinion et enquête sociologique par questionnaire. L'enquête ne cherche pas à produire le chiffre qui parle de lui-même, mais rendre compte d'une activité/opinion en dévoilant les facteurs qui l'influent.
 
@@ -48,10 +47,7 @@ C'est sur cette production d'une opinion majoritaire/effet de consensus que se s
 
 La statistique est une technique privilégiée pour la mise en évidence à la fois des faits sociaux et des facteurs qui les déterminent. Dans le réel, le social est mélangé à l'individuel, au subjectif. La statistique est une méthode pour les isoler, puis pour rechercher leurs causes.
 
-**L'objectivation**
-**Objectivation et objectivité**
-**L'explicitation**
-**Le choix de la méthode/les motivations des pratiques**
+**L'objectivation** **Objectivation et objectivité** **L'explicitation** **Le choix de la méthode/les motivations des pratiques**
 
 ## La démarche générale d'une enquête
 
