@@ -10,7 +10,7 @@ a. Les étapes d’une enquête par questionnaire
 4. test
 5. passation
 6. création de la base de donnée
-7. saisie du questionnaire sur modalisa
+7. saisie des données: la création de la base de données
 
 **b. L’évolution du questionnaire et mise en pratique**
 

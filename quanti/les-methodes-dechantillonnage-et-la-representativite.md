@@ -1,7 +1,5 @@
 # Les méthodes d'échantillonnage et la représentativité
 
-
-
 III. Les méthodes d’échantillonnage et la représentativité
 
 a. Les échantillons aléatoires ou probabilistes
@@ -20,3 +18,4 @@ a. Les échantillons aléatoires ou probabilistes
 5. méthode de kish
 
 **Conclusions** : biais et redressements
+
