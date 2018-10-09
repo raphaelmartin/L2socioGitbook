@@ -19,3 +19,4 @@ a. Les échantillons aléatoires ou probabilistes
 4. tirages selon des itinéraires
 5. méthode de kish
 
+**Conclusions** : biais et redressements
