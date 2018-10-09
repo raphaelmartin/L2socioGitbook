@@ -2,17 +2,55 @@
 
 A lire: _Gremy_, Défaillances mémoire
 
+Exposé
+Article téléphone : abonnés absents
+les enquêtes téléphonique et la méthode: pb des listes rouges....
+
+La méthodologie de la passation va avoir un impact sur nos résultats, la pop. qu'on va pouvoir atteindre...
+Principe de cause à effet pas automatique même si on voit une corrélation: il faut neutraliser les autres variables avant d'affirmer quoi que ce soit. Ex: mobile - boire de l'alcool.
+
 ## Les étapes d’une enquête par questionnaire
 
 ### définition de l’objet d’enquête et constitution d’un questionnaire
+
+Délimiter le champ de l'enquête:
+* évaluer la faisabilité et contraintes
+* que sait-on déjà de l'objet? Etat de l'art
+* qu'est-ce qu'on peut apporter à cette connaissance? Comment se situer vis-à-vis de ces travaux?
+* définir l'échantillon
+
 ### entretiens exploratoires
+
+Rôle: passer d'une question générale à des questions concrètes.  
+Ces entretiens permettent d'éviter le biais d'imposition de problématique: ne pas imposer ses propres catégories de pensée. On va chercher à connaître le langage des individus, maîtriser leurs codes, le langage indigène. Ces entretiens servent à être pertinent, on laisse les acteurs décrirent leurs pratiques, opinions.
+
 ### rédaction du questionnaire
-### test
-### passation
+
+Objectif: formuler des questions concrètes / proposer des modalités de réponse / organiser en parties
+2 séries de questions: 1 se rapportent aux déterminants sociaux (niveau étude, prof. parents, sexe, âge) / 1 se rapportent aux goûts, pratiques, opinions des enquêtés.
+
+### la phase test
+
+Objectif: passer quelques questionnaires pour s'assurer de la clarté des questions / fiabilité des réponses  
+retour au questionnaire -> reformulation des questions, modalités...
+
+### passation du questionnaire
+
+Plusieurs méthodes de passation: face-à-face / téléphone / Internet / courier / CATI (computer-assister telephone interview) / auto-administrés.
+Impact de la méthode de passation sur la qualité des données récoltées (ex: les enquêtes sur les comportements sexuels des adultes et des adolescents).
+
 ### création de la base de donnée
+
+Modalisa  
+masque de saisie = questionnaire  
+fin de l'étape: constitution d'une base de données qui permet l'analyse de l'ensemble des questionnaires.  
+Besoin de recodage fréquent (questions ouvertes, variables numériques...)
+
 ### saisie des données: la création de la base de données
 
-## L’évolution du questionnaire et mise en pratique**
+[Imgur](https://i.imgur.com/ZGVrDIh.png)
+
+## L’évolution du questionnaire et mise en pratique
 
 ### principes généraux
 ### les différents types de questions et de réponse
@@ -22,37 +60,6 @@ A lire: _Gremy_, Défaillances mémoire
 
 ## Cours
 
-Exposé
-Article téléphone : abonnés absents
-les enquêtes téléphonique et la méthode: pb des listes rouges....
-
-La méthodologie de la passation va avoir un impact sur nos résultats, la pop. qu'on va pouvoir atteindre...
-Principe de cause à effet pas automatique même si on voit une corrélation: il faut neutraliser les autres variables avant d'affirmer quoi que ce soit. Ex: mobile - boire de l'alcool.
-
-Grandes étapes de l’enquête par questionnaire
-
-- l'objet de l’enquête et la construction du questionnaire
-DEJA VU
-- les entretiens exploratoires
-Permet de nous donner des idées:
-langage indigène
-éviter d'imposer ses problématiques. Notre manière de nous poser le pb est surement incohérente face à la personne interrogées. Rentrer dans les représentations de l'autre. S'approprier les pratiques, discours de l'autre....
-- rédaction d'une première version du questionnaire
-formuler des questions concrètes. Le thème de départ se transforme en questions simples.
-éviter de multiplier les questions. Maître mot: simple, clair.
-les déterminants sociaux en fin de questionnaire. Cara. socio démographiques. Permet de situer nos interrogés.
-- phase de test
-passer quelques questionnaires. Plusieurs méthodes pour passer le questionnaire, chacune ayant ses biais
-- la saisie des données. Création d'une base de données.
-Modalisa, Sphinx
-
-les principes généraux du questionnaire
-il doit être organisé. but: découper de manière thématique pour guider la personne, maintenir son attention. Ne pas passer du coq à l'ane: cohérence.
-questions sensibles à la fin du questionnaire
-2 séries de questions
-à la fin: l'origine sociale, croyances religieuses....
-des questions claires, éviter la fausse évidence, le sous entendu. Faire de l'explicite. Double négation
-1 question à la fois, jamais 2 dans 1.
 pas de biais d'acquiescement dans les modalités. Elle peut répondre ce qu'elle souhaite y'a pas de bonne réponse
 les problème de la mémoire/remémoration
 
