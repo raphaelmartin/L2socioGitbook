@@ -12,3 +12,9 @@ a. Les étapes d’une enquête par questionnaire
 6. création de la base de donnée
 7. saisie du questionnaire sur modalisa
 
+**b. L’évolution du questionnaire et mise en pratique**
+
+1. principes généraux
+2. les différents types de questions et de réponse
+3. obtenir des réponses exploitables
+
