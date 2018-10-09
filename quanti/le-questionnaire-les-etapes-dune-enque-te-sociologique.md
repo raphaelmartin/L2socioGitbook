@@ -1,4 +1,4 @@
-# Le questionnaire : les étapes d’une enquête sociologique
+# Le questionnaire : les étapes d’une enquête sociologique
 
 A lire: _Gremy_, Défaillances mémoire
 

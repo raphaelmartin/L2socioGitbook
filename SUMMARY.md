@@ -10,7 +10,7 @@
 ## Quanti
 
 * [Du questionnement au questionnaire. Comment objectiver les faits sociaux?](quanti/comment-objectiver-faits-sociaux.md)
-* [Le questionnaire : les étapes d’une enquête sociologique](quanti/le-questionnaire-les-etapes-dune-enque-te-sociologique.md)
+* [Le questionnaire : les étapes d’une enquête sociologique](quanti/le-questionnaire-les-etapes-dune-enque-te-sociologique.md)
 
 ## Géographie historique et politique: pouvoirs et territoires
 
