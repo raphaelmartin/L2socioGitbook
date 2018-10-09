@@ -48,7 +48,7 @@ Besoin de recodage fréquent (questions ouvertes, variables numériques...)
 
 ### saisie des données: la création de la base de données
 
-[Imgur](https://i.imgur.com/ZGVrDIh.png)
+![Imgur](https://i.imgur.com/ZGVrDIh.png)
 
 ## L’évolution du questionnaire et mise en pratique
 
