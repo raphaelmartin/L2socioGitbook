@@ -2,18 +2,19 @@
 
 recherche docu comme préalable à l'enquête.
 
+## Les argonautes du pacifique occidental — MALINOWSKI
+
 ## approfondissement
 
 ### L'observation directe — ARBORIO / FOURNIER
 
 ### Le goût de l'observation — PENEFF
 
-### L'enquête sociologique — PAUGAM
+### Le raisonnement ethnographique — BEAUD/WEBER
 
-### Les méthodes en sociologie : l'observation - Henri PERETZ
+### Les méthodes en sociologie : l'observation — Henri PERETZ
 
 ### L'observation directe — CHAUVIN/JOUNIN
-
 #### intro
 
 Observer les êtres humains n'est pas l'apanage de la sociologie. D'autres disciplines la pratiquent. Mais qu'est-ce qui fait la singularité de l'observation directe?
