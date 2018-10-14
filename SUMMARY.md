@@ -6,6 +6,7 @@
 
 * [TD1 — retour sur l'opposition méthodes quali/quanti](quali/td1.md)
 * [TD2 — historique et enjeux de la pratique de l'observation en sociologie](quali/td2-historique-et-enjeux-de-la-pratique-de-lobservation-en-sociologie.md)
+* [TD3 — le droit et la justice comme champ de la sociologie](quali/td3-le-droit-et-la-justice-comme-champ-de-la-sociologie.md)
 
 ## Quanti
 
