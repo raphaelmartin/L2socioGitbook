@@ -1,4 +1,4 @@
-# TD1 — Le temps en géographie : une part d’histoire?
+# TD1 — Le temps en géographie : une part d’histoire?
 
 Présentation du TD, des outils de travail. Définition de la géographie historique et de la géohistoire.
 
