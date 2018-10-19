@@ -19,3 +19,7 @@
 * [TD1 — Le temps en géographie : une part d’histoire?](geographie-historique-et-politique-pouvoirs-et-territoires/td1-le-temps-en-geographie-une-part-dhistoire.md)
 * [TD2 — Géographie\(s\) et dimension politique des sociétés](geographie-historique-et-politique-pouvoirs-et-territoires/td2-geographie-s-et-dimension-politique-des-societes.md)
 
+## philo contemporaine
+
+* [séance 1](philo-contemporaine/seance-1.md)
+

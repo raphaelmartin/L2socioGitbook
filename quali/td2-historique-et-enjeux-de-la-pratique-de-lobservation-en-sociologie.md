@@ -15,6 +15,7 @@ recherche docu comme préalable à l'enquête.
 ### Les méthodes en sociologie : l'observation — Henri PERETZ
 
 ### L'observation directe — CHAUVIN/JOUNIN
+
 #### intro
 
 Observer les êtres humains n'est pas l'apanage de la sociologie. D'autres disciplines la pratiquent. Mais qu'est-ce qui fait la singularité de l'observation directe?
@@ -32,7 +33,7 @@ L'observation est une méthode essentielle pour donner accès à ce qui se cache
 
 #### Les différents usages de l'observation
 
-##### Participante ou non?
+**Participante ou non?**
 
 **l'observation non participante**: le sociologue négocie une position de simple observateur
 
@@ -46,7 +47,7 @@ L'observation est une méthode essentielle pour donner accès à ce qui se cache
 * Inconvénients: enfermement dans un seul rôle, un seul point de vue.
 * En un sens, l'observateur est le contraire du participant. Ce dernier cherche une insertion, des relations stabilisés, tandis que l'observateur doit chercher à multiplier les perspectives, s'intéresser à des situations diverses, rechercher des données contradictoires...
 
-##### A découvert ou non
+**A découvert ou non**
 
 **l'observation à découvert** \(=on se présente en tant que sociologue faisant une étude sociologique\)
 
@@ -60,14 +61,21 @@ Elle risque de confiner l'enquêteur à son rôle de "participant":
 2. Difficulté à dévoiler l'enquête et fixation de notre rôle nous empêche d'établir avec les acteurs d'autres "situations de paroles".
 3. Le position incognito pose un pb déontologique car on ne dit pas aux enquêtés qu'ils sont les objets d'une enquête. Toutefois, c'est le cas dans toutes les autres méthodes. La dissimulation ou le malentendu sciemment entretenus ne se limitent donc pas à l'observation masquée ; ils structurent bon nombre de relations d'enquête.
 
-##### L'observation, méthode "qualitative"?
+**L'observation, méthode "qualitative"?**
 
 #### Les techniques
-##### Comment et quoi observer?
-##### La collecte des données
-##### Le journal de terrain et le compte rendu
+
+**Comment et quoi observer?**
+
+**La collecte des données**
+
+**Le journal de terrain et le compte rendu**
 
 #### Limites
-##### L'observateur est-il condamner à "perturber"?
-##### Illusion "topocentrique" et illusion "juridique"
-##### L'illusion de l'exclusivité réflexive
+
+**L'observateur est-il condamner à "perturber"?**
+
+**Illusion "topocentrique" et illusion "juridique"**
+
+**L'illusion de l'exclusivité réflexive**
+
