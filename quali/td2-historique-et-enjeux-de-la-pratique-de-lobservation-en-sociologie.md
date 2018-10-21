@@ -4,7 +4,9 @@ recherche docu comme préalable à l'enquête.
 
 ### Les argonautes du pacifique occidental — MALINOWSKI
 
-## approfondissement
+## lectures externes
+
+### Guide de l'enquête de terrain — BEAUD/WEBER
 
 ### L'observation directe — ARBORIO / FOURNIER
 
@@ -16,7 +18,9 @@ recherche docu comme préalable à l'enquête.
 
 {% tabs %}
 {% tab title="L\'obs directe: defs et objectifs" %}
-**Quelles données spécifiques recueille par observation?** Les comportements effectifs des individus. Organisation formelle ≠ organisation réelle : "seule une présence sur les lieux mêmes permet au chercheur de saisir les aspects changeants et non inscrits dans les règlements."
+**Quelles données spécifiques on recueille par observation?** Les comportements effectifs des individus. Qui fait toute la différence entre organisation formelle ≠ organisation réelle
+
+> "Seule une présence sur les lieux mêmes permet au chercheur de saisir les aspects changeants et non inscrits dans les règlements."
 {% endtab %}
 
 {% tab title="La réalisation de l\'observation" %}
