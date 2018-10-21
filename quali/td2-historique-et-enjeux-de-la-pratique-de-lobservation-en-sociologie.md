@@ -14,6 +14,22 @@ recherche docu comme préalable à l'enquête.
 
 ### Les méthodes en sociologie : l'observation — Henri PERETZ
 
+{% tabs %}
+{% tab title="L\'obs directe: defs et objectifs" %}
+**Quelles données spécifiques recueille par observation?** Les comportements effectifs des individus. Organisation formelle ≠ organisation réelle : "seule une présence sur les lieux mêmes permet au chercheur de saisir les aspects changeants et non inscrits dans les règlements."
+{% endtab %}
+
+{% tab title="La réalisation de l\'observation" %}
+#### Les différentes étapes de l'observation
+
+3 activités indissociables: une interaction sociale avec le milieu étudiée — des activités d'observations — un enregistrement des données observées \(=un échantillon de personnes, de moments, de lieux\)
+{% endtab %}
+
+{% tab title="La rédaction des notes d\'observation" %}
+
+{% endtab %}
+{% endtabs %}
+
 ### L'observation directe — CHAUVIN/JOUNIN
 
 Observer les êtres humains n'est pas l'apanage de la sociologie. D'autres disciplines la pratiquent. Mais qu'est-ce qui fait la singularité de l'observation directe?
@@ -71,7 +87,7 @@ Elle risque de confiner l'enquêteur à son rôle de "participant":
 {% endtab %}
 
 {% tab title="Limites" %}
-**L'observateur est-il condamner à "perturber"?**
+**L'observateur est-il condamné à "perturber"?**
 
 **Illusion "topocentrique" et illusion "juridique"**
 
