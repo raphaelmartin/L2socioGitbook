@@ -40,7 +40,7 @@ Ce qui distingue réellement quanti/quali c'est **la façon de construire des ca
 1. **Domestique**: centré sur la proximité, le temps long de l'apprentissage. C'est la connaissance monographique par exemple.  
 2. **Industriel**: lié aux conceptualisation formelles que la science a fournie. La connaissance est destinée à établir une transformation du monde social selon des modes standardisés.
 
-Un cliché persistant à balayer: le quali ne généraliserait pas, il serait dans "l'approfondissement". Hors, l'étude d'un cas typique est justement destiné ensuite à être généralisé. Que ce soit quanti ou quali, l'**ambition de généralisation** est présente.
+Un cliché persistant à balayer: le quali ne généraliserait pas, il serait dans "l'approfondissement". Hors, quand on étudies un cas typique, c'est destiné ensuite à être généralisé. Que ce soit en quanti ou en quali, l'**ambition de généralisation** est présente.
 
 Ainsi, ces 2 modes de construction de la généralité ont fait l'objet de **combinaisons** diverses. La statistique administrative, depuis Napoléon, quitte l'aspect monographique pour adopter le vocabulaire socio-économique national. Pour Desrosières, ça entraîne une **déterritorialisation de la description du monde social**, liée à la déterritorialisation de la gestion du monde social.
 
