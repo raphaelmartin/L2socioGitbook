@@ -16,8 +16,6 @@ recherche docu comme préalable à l'enquête.
 
 ### L'observation directe — CHAUVIN/JOUNIN
 
-#### intro
-
 Observer les êtres humains n'est pas l'apanage de la sociologie. D'autres disciplines la pratiquent. Mais qu'est-ce qui fait la singularité de l'observation directe?
 
 1. Elle quitte le raisonnement "toutes choses égales par ailleurs" pour chercher à rendre compte d'une configuration globale d'acteurs et de relations avec ses "effets de contexte".
@@ -31,8 +29,8 @@ _— Robert Park, 1927._
 
 L'observation est une méthode essentielle pour donner accès à ce qui se cache, retracer l'enchaînement des actions et des interactions, ou encore saisir ce qui ne se dit pas ou "ce qui va sans dire".
 
-#### Les différents usages de l'observation
-
+{% tabs %}
+{% tab title="Les différents usages de l\'obs" %}
 **Participante ou non?**
 
 **l'observation non participante**: le sociologue négocie une position de simple observateur
@@ -62,20 +60,22 @@ Elle risque de confiner l'enquêteur à son rôle de "participant":
 3. Le position incognito pose un pb déontologique car on ne dit pas aux enquêtés qu'ils sont les objets d'une enquête. Toutefois, c'est le cas dans toutes les autres méthodes. La dissimulation ou le malentendu sciemment entretenus ne se limitent donc pas à l'observation masquée ; ils structurent bon nombre de relations d'enquête.
 
 **L'observation, méthode "qualitative"?**
+{% endtab %}
 
-#### Les techniques
-
+{% tab title="Les techniques" %}
 **Comment et quoi observer?**
 
 **La collecte des données**
 
 **Le journal de terrain et le compte rendu**
+{% endtab %}
 
-#### Limites
-
+{% tab title="Limites" %}
 **L'observateur est-il condamner à "perturber"?**
 
 **Illusion "topocentrique" et illusion "juridique"**
 
 **L'illusion de l'exclusivité réflexive**
+{% endtab %}
+{% endtabs %}
 
