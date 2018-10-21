@@ -26,12 +26,34 @@ recherche docu comme préalable à l'enquête.
 {% endtab %}
 
 {% tab title="La rédaction des notes d\'observation" %}
+#### 1ères choses à faire en début d'observation
 
+Se poser 3 questions:
+
+1. que se passe-t-il dans ce lieu?
+2. qu'est-ce que je comprends et ne comprends pas dans ce que j'ai vu?
+3. qu'est-ce qu'une approche sociologique d'un tel lieu?
+
+#### La grille d'obs
+
+Elle est le premier énoncé des catégories de recueil permettant de saisir les propriétés élémentaires de la situation et les composantes d'un premier inventaire.
+
+1. définir la situation à observer: enjeu, conclusion, culture spécifique...
+2. inventaire des objets, instruments, outils, éléments de décor nécessaires à l'action
+3. règles formelles définissant la présence dans ce lieu
+4. qui fait quoi? division du travail
+5. les utilisateurs du lieu: comptage de flux de personnes
+6. les divers usages du lieu
+7. situer le lieu dans son environnement
+
+#### Journal de terrain: notes de méthode et suite d'épisodes
 {% endtab %}
 {% endtabs %}
 
 ### L'observation directe — CHAUVIN/JOUNIN
 
+{% tabs %}
+{% tab title="Intro" %}
 Observer les êtres humains n'est pas l'apanage de la sociologie. D'autres disciplines la pratiquent. Mais qu'est-ce qui fait la singularité de l'observation directe?
 
 1. Elle quitte le raisonnement "toutes choses égales par ailleurs" pour chercher à rendre compte d'une configuration globale d'acteurs et de relations avec ses "effets de contexte".
@@ -44,8 +66,8 @@ Observer les êtres humains n'est pas l'apanage de la sociologie. D'autres disci
 _— Robert Park, 1927._
 
 L'observation est une méthode essentielle pour donner accès à ce qui se cache, retracer l'enchaînement des actions et des interactions, ou encore saisir ce qui ne se dit pas ou "ce qui va sans dire".
+{% endtab %}
 
-{% tabs %}
 {% tab title="Les différents usages de l\'obs" %}
 **Participante ou non?**
 
