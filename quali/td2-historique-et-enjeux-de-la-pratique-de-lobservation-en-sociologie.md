@@ -14,20 +14,6 @@ recherche docu comme préalable à l'enquête.
 
 ### Les méthodes en sociologie : l'observation — Henri PERETZ
 
-{% tabs %}
-{% tab title="Chap1" %}
-test
-{% endtab %}
-
-{% tab title="Chap2" %}
-lalala
-{% endtab %}
-
-{% tab title="Chap3" %}
-🎁
-{% endtab %}
-{% endtabs %}
-
 ### L'observation directe — CHAUVIN/JOUNIN
 
 #### intro
