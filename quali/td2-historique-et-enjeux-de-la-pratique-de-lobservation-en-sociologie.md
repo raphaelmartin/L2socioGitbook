@@ -8,6 +8,27 @@ recherche docu comme préalable à l'enquête.
 
 ### Guide de l'enquête de terrain — BEAUD/WEBER
 
+{% tabs %}
+{% tab title="Le travail d\'enquête" %}
+### Observer
+
+#### Une observation totale
+
+Condensés de relations qui offrent ensemble les 3 niveaux d'observables: un évènement, des interactions, un lieu et des objets.
+
+* Mémorisez la disposition spatiale des lieux/personnes
+* Mémorisez le déroulement temporel de l'évènement
+* Mémorisez les mots
+* Comptez l'assistance
+* Distinguer personne mobiles/immobiles ; des groupes ; des places/points de vue
+* Changez de place si possible
+{% endtab %}
+
+{% tab title="Chap.3" %}
+
+{% endtab %}
+{% endtabs %}
+
 ### L'observation directe — ARBORIO / FOURNIER
 
 ### Le goût de l'observation — PENEFF
@@ -49,6 +70,22 @@ Elle est le premier énoncé des catégories de recueil permettant de saisir les
 5. les utilisateurs du lieu: comptage de flux de personnes
 6. les divers usages du lieu
 7. situer le lieu dans son environnement
+
+#### Que faut-il noter?
+
+3 catégories de notes:
+
+1. les notes d'observation
+2. les notes de méthode
+3. les notes théoriques
+
+Classer les données d'observation en 5 domaines:
+
+1. les actions
+2. les groupes sociaux
+3. les dispositifs matériels
+4. les points de vue des participants
+5. la situation de l'observateur
 
 #### Journal de terrain: notes de méthode et suite d'épisodes
 {% endtab %}
