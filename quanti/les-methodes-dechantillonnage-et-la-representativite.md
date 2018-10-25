@@ -1,21 +1,26 @@
 # Les méthodes d'échantillonnage et la représentativité
 
-III. Les méthodes d’échantillonnage et la représentativité
+## Les échantillons aléatoires ou probabilistes
 
-a. Les échantillons aléatoires ou probabilistes
+### tirage au hasard
 
-1. tirage au hasard
-2. tirage systématique
-3. tirage aléatoire après stratification
-4. tirage par grappes
+### tirage systématique
 
-**b. Les échantillons empiriques**
+### tirage aléatoire après stratification
 
-1. tirage par quotas
-2. volontaires
-3. accidentels
-4. tirages selon des itinéraires
-5. méthode de kish
+### tirage par grappes
+
+## **Les échantillons empiriques**
+
+### tirage par quotas
+
+### volontaires
+
+### accidentels
+
+### tirages selon des itinéraires
+
+### méthode de kish
 
 **Conclusions** : biais et redressements
 
