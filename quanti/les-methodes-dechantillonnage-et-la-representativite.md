@@ -24,3 +24,23 @@
 
 **Conclusions** : biais et redressements
 
+## Le questionnaire — F. DE SINGLY
+
+{% tabs %}
+{% tab title="Chap1. Pourquoi produire des chiffres?" %}
+
+{% endtab %}
+
+{% tab title="Chap2. La conception du questionnaire" %}
+## L'échantillon
+
+### L'idéal statistique
+
+### La méthode des quotas
+
+### Les échantillons stratifiés
+
+### L'étude des publics
+{% endtab %}
+{% endtabs %}
+
