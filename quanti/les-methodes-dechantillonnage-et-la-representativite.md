@@ -54,7 +54,14 @@
 {% tab title="Produire des données \"quantitatives\"" %}
 ## La notion d'échantillon
 
+On a 2 stratégies pour conduire son étude:
+
+1. soit on passe une enquête exhaustive auprès de tous les individus de la population d'intérêt
+2. soit on examine des morceaux/fractions, appelés échantillons, de cette population = un sondage.
+
 ### Etudier toute une population ou un échantillon?
+
+
 
 ### Les échantillons au hasard
 
