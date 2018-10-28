@@ -34,13 +34,34 @@
 {% tab title="La conception du questionnaire" %}
 ## L'échantillon
 
+"Qui interroger?" : l'échantillon ne doit être précisé que lorsque l'objet d'enquête est suffisamment défini.
+
 ### L'idéal statistique
 
+L'échantillon aléatoire est obtenu par le tirage au sort d'individus appartenant à la pop. de référence. Un membre de cette pop. doit avoir la même probabilité que les autres de figurer dans l'échantillon. Il faut donc disposer d'une liste exhaustive de la pop. de référence
+
 ### La méthode des quotas
+
+Méthode utilisée dans les instituts de sondage. Il suffit de connaître la structure de la pop. de référence au moins selon quelques dimensions considérées comme les plus importantes : sexe, PCS, âge, localisation... L'échantillon sera un modèle réduit de la pop. selon les critères pris en considération. Pour les autres critères non contrôlés, la représentativité est obtenue par effet de halo, c'est la pari de cette méthode.
+
+On remet à l'enquêteur une feuille de quotas où sont marqués les traits des individus à interroger : 5 ouvriers et un cadre, 2 personnes de mins de 35 ans et 4 de plus de 50... L'enquêteur est libre de trouver les individus.
+
+Avantages:
+
+* Pas besoin d'un fichier de référence, une connaissance statistique de la pop. suffit
+* Economique
+* Présente une certaine fiabilité, garantie par expérience, à la condition de respecter certaines règles de prudence pour lire les résultats.
+* Autorise la publication de chiffres sur l'ensemble de l'échantillon \(=énoncés généraux\). Produit l'effet d'imposition d'une majorité éventuelle \(sondage d'opinion\).
 
 ### Les échantillons stratifiés
 
 ### L'étude des publics
+
+L'échantillon probabiliste est plus le modèle de référence des statistiques que de la sociologie. Celle-ci n'a pas toujours affaire à des "populations" clairement repérables, mais à des groupes mobiles aux frontières floues. Luc BOLTANSKI et Pascale MALDIDIER montrent que c'est le cas de la grande partie des publics, à partir d'une enquête sur les lecteurs de _Science et Vie_.
+
+> Un public n'a aucune des propriétés d'un groupe officiel : ni permanent, ni limité, ni coercitif ; il n'a pas fait l'objet d'un travail de définition sociale établissant qui est lecteur et qui ne l'est pas \(contrairement au fait d'être médecin\) ; il doit son existence à un acte et sa survie à la reproduction de cet acte.
+
+Quel est l'échantillon "représentatif"? Celui des fidèles? Celui de tous les lecteurs d'un numéro donné? Pour Boltanski et Maldidier, l'échantillon "spontanné" n'est pas représentatif au sens statistique mais il donne une "bonne représentation du lectorat, une image stylisée par l'accentuation des traits pertinents". La coexistence des publics \(noyau/périphérie\) au sein d'un "public" apparent doit être pensée au moment de la préparation de l'enquête. La question de la population et de l'échantillon est inséparable de la construction théorique de l'objet.
 {% endtab %}
 {% endtabs %}
 
