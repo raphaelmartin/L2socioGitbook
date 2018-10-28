@@ -123,9 +123,24 @@ Enfin, la représentativité d'un échantillon ne garantit pas que les observati
 
 ### Remarques et conseils supplémentaires
 
+1. il est tout à fait possible de combiner les diverses méthodes d'échantillonnage
+2. la publication des résultats doit être accompagnée d'une fiche technique décrivant la taille de l'échantillon, mais aussi son mode de construction.
+3. Qu'est-ce qu'un bon échantillon? Pas de critère idéal, mais des principes généraux de construction garantissant une plus ou moins grande représentativité. L'intérêt d'un échantillon se juge en fonction de son adéquation à la problématique, le critère de représentativité n'est même pas nécessairement idéal.
+
+Plus l'hétérogénéité et la complexité du phénomène étudié sont supposées grandes, plus l'échantillon devra être de grande taille. Un groupe est d'autant mieux représenté dans un échantillon qu'il présente une grande hétérogénéité, une grande variabilité.
+
 ### L'échantillon comme prisme
 
+**Quel sens et quelle confiance accorder à des échantillons non représentatifs?**  
+Plutôt que de partir d'une pop. bien connue pour construire l'échantillon, on part de l'échantillon empirique et on considère qu'il est représentatif d'une population aux contours ignorés _a priori_. On inverse la perspective. L'échantillon devient un prisme laissant entrevoir une population dont la description peut être faite _a posteriori_. Elle ne garantit pas que les résultats obtenus seront universaux, mais elle permet de s'assurer qu'ils ont un sens, une portée réelle: ils valent pour une pop. dont on est capable de décrire les principaux contours.
+
+Il n'est pas nécessairement utile de montrer qu'un phénomène concerne une part connue de la pop. générale pour estimer que ce phénomène est intéressant/pertinent à analyser. L'enquête quanti sur échantillon non représentatif permet d'identifier des phénomènes, mécanismes, processus et des traits typiques.
+
 ### A propos des "erreurs" et des "biais"
+
+Tout enquête est entachée "d'erreurs": biais d'auto-sélection, refus de répondre, biais de la base de sondage... Il ne faut toutefois pas envisager ces sources d'erreurs/biais comme des "erreurs et biais de mesure" au sens classique. La conception de la mesure est une conception réaliste : il existe de vraies/authentiques grandeurs que les dispositifs de mesure cherchent à identifier. Selon cette conception, un bais est un écart par rapport à une valeur réelle. L'objectif du scientifique étant de s'approcher au plus près de cette réalité.
+
+En sciences sociales, cette conception réaliste de la mesure n'est pas justifiable \(ou seulement pour de rares variables\). Il n'existe pas de réponses "exactes", sans ambiguités, à des questions comme "Combien de films avez-vous vu au cours du dernier mois?" ; "Fumez-vous?"... Même des questions purement factuelles appellent des réponses avec de l'arbitraire, de l'équivoque. Il existe un flou intrinsèque à toute catégorisation. La notion de "biais d'échantillonnage", idée selon laquelle il existe un échantillon parfait qu'il faut approcher, doit être rejetée.
 
 ## Que valent les informations issues d'un échantillon?
 {% endtab %}
