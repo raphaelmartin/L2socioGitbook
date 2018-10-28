@@ -75,7 +75,7 @@ Construire un échantillon = échantillonner une population de référence. 2 ca
 ### Les échantillons au hasard
 
 {% hint style="warning" %}
-Interroger les 100 premières personnes qui entrent dans un musée n'est pas aléatoire. Le jour et l'heure de visite sont déterminés par la situation pro. et familiale des individus. Même chose si on choisis les individus suivant la première lettre de leurs prénoms: la distribution des prénoms est conditionnée par le sexe mais aussi par la langue et la culture. Il n'y a pas de neutralité sociale dans le choix des prénoms.
+Interroger les 100 premières personnes qui entrent dans un musée n'est pas aléatoire. Le jour et l'heure de visite sont déterminés par la situation pro. et familiale des individus. Même chose si on choisis les individus commençant par une lettre au hasard: la distribution des prénoms est conditionnée par le sexe mais aussi par la langue et la culture. Il n'y a pas de neutralité sociale dans le choix des prénoms.
 {% endhint %}
 
 Les individus doivent être choisis indépendamment de toutes leurs caractéristiques et propriétés. Tous les individus de la population de référence doivent avoir une probabilité \(chance\) connue et non nulle de faire partie de l'échantillon.
@@ -108,6 +108,18 @@ Toute enquête sur échantillon empirique doit être attentive aux biais introdu
 2. la méthode de sélection: dans l'exemple d'une obs. au musée, l'enquêteur devra, après chaque enquêté, interroger la 10ème \(ou 20ème...\) personne qui se présente à l'entrée du musée.
 
 ### Qu'est-ce qu'un échantillon représentatif?
+
+= les répartitions \(distributions\) des variables \(caractères\) sont identiques dans l'échantillon et dans la population. Lorsque l'échantillon est probabiliste, cette représentativité est assurée.
+
+Un échantillon est dit représentatif s'il possède la même "structure" que la population de référence. Les différents sous-groupes qui composent cet échantillon doivent représenter une part identique de la part qu'ils représentent dans la population.
+
+Pour une population avec 52% de femmes et 48% d'hommes, un échantillon de 1000 personnes sera composé de 520 femmes et 480 hommes.
+
+Alors que la représentativité est recherchée dans les échantillons par quotas, il est impossible de construire un échantillon d'individus dont toutes les variables ont des distributions identiques dans l'échantillon et dans la population. Seules les distributions d'un petit nombre de variables peuvent être respectées.
+
+Ainsi, un échantillon n'est pas "représentatif" mais "représentatif d'une population au sens d'une série de critères". Il faut se demander: "représentatif de quoi?" \(de quelle pop.?\) et "au sens de quels critères?" \(quels sont les variables dont les distributions sont respectées?\).
+
+Enfin, la représentativité d'un échantillon ne garantit pas que les observations conduites sur cet échantillon soit valables pour l'ensemble de la population. Dans les années '60, les caractéristiques générales \(âge, sexe, CSP\) des lecteurs de Paris Match étaient proches des caractéristiques de l'ensemble de la pop. française. Il est pourtant évident que cet échantillon était biaisé \(à commencer par les pratiques de lecture\). Les variables étudiées par le sociologues doivent être fortement liées aux critères de représentativité, sinon les résultats ne sont pas généralisables.
 
 ### Remarques et conseils supplémentaires
 
