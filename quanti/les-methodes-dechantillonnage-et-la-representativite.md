@@ -61,7 +61,16 @@ On a 2 stratégies pour conduire son étude:
 
 ### Etudier toute une population ou un échantillon?
 
+Mieux vaut une enquête auprès d'un échantillon dont on connait bien les conditions de recrutement et de passation qu'une enquête aspirant à être exhaustive ou très large.
 
+Une enquête exhaustive comme celle de l'INSEE pour le recensement coûte très cher et présente des risques: erreurs, omissions, doubles comptes.
+
+Alors qu'une enquête sur un échantillon resserrée permet de réduire les non-réponses, les biais de réponse et les erreurs de mesures. Exemple: le fiasco du Literary Digest \(2M\) vs Gallup \(5K\) aux USA dans les années '30.
+
+Construire un échantillon = échantillonner une population de référence. 2 catégories d'échantillons:
+
+1. les échantillons au hasard \(ou aléatoires, probabilistes\) : les individus sont choisis par tirage aléatoire.
+2. les échantillons empiriques \(ou non probabilistes\) : les individus sont choisis selon des principes non strictement aléatoires.
 
 ### Les échantillons au hasard
 
