@@ -69,12 +69,43 @@ Alors qu'une enquête sur un échantillon resserrée permet de réduire les non-
 
 Construire un échantillon = échantillonner une population de référence. 2 catégories d'échantillons:
 
-1. les échantillons au hasard \(ou aléatoires, probabilistes\) : les individus sont choisis par tirage aléatoire.
+1. les échantillons au hasard \(ou aléatoires, probabilistes\) : les individus sont choisis par tirage aléatoire parmi les membres de la population de référence
 2. les échantillons empiriques \(ou non probabilistes\) : les individus sont choisis selon des principes non strictement aléatoires.
 
 ### Les échantillons au hasard
 
+{% hint style="warning" %}
+Interroger les 100 premières personnes qui entrent dans un musée n'est pas aléatoire. Le jour et l'heure de visite sont déterminés par la situation pro. et familiale des individus. Même chose si on choisis les individus suivant la première lettre de leurs prénoms: la distribution des prénoms est conditionnée par le sexe mais aussi par la langue et la culture. Il n'y a pas de neutralité sociale dans le choix des prénoms.
+{% endhint %}
+
+Les individus doivent être choisis indépendamment de toutes leurs caractéristiques et propriétés. Tous les individus de la population de référence doivent avoir une probabilité \(chance\) connue et non nulle de faire partie de l'échantillon.
+
+3 manières d'y arriver:
+
+1. l'échantillon aléatoire simple
+2. l'échantillon stratifié
+3. l'échantillon en grappes
+
 ### Les échantillons empiriques
+
+#### les échantillons par quota
+
+L'échantillon respecte des critères de composition/structure. Les quotas sont définis à partir de critères sociodémographiques simples: sexe, âge, profession, région de résidence...
+
+Bien qu'elle soit facile à mettre en oeuvre, en dehors des critères de quotas, on ne sait jamais vraiment quels principes ont guidé le choix des enquêteurs: le recrutement des enquêtés peut être fortement biaisé.
+
+#### les échantillons volontaires \(spontanés\)
+
+Echantillon dont les membres ont eux-mêmes décidé de se soumettre à l'enquête. Mais on ne saura pas quels critères ont poussés certains à répondre à l'enquête, et d'autres non. Pour une enquête glissée dans un magazine, on ne pourra être renseigné que sur une catégorie particulière de lecteurs \(voulant faire valoir leur point de vue / engagés dans la vie du magazine...\).
+
+#### les échantillons accidentels
+
+Echantillon constitué au gré des circonstances sans réflexion sur les conditions de recrutement. Par exemple, un sociologue travaillant sur les usages du portable peut observer les 100 premières personnes utilisant leur portable dans une rue. Mais comme il ne connaît rien de la nature de son échantillon, ses résultats ne pourront être considérés représentatifs des usages de la population générale des propriétaires de mobiles.
+
+Toute enquête sur échantillon empirique doit être attentive aux biais introduits par les conditions de réalisation et par les critères de sélection utilisés. Pour diminuer la place de la subjectivité de l'enquêteur, 2 techniques:
+
+1. la méthode des itinéraires: imposer à l'enquêteur un itinéraire et des arrêts en des points précis. En chacun de ces points, il devra interroger la 1ère personne.
+2. la méthode de sélection: dans l'exemple d'une obs. au musée, l'enquêteur devra, après chaque enquêté, interroger la 10ème \(ou 20ème...\) personne qui se présente à l'entrée du musée.
 
 ### Qu'est-ce qu'un échantillon représentatif?
 
