@@ -1,7 +1,7 @@
 # Table of contents
 
 * [.](README.md)
-* [sommaire](summary.md.md)
+* [sommaire](summary.md)
 
 ## quali
 
