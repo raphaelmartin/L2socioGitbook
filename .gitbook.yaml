@@ -3,4 +3,4 @@ structure:
   readme: README.md
   summary: SUMMARY.md
 redirects:
-  sommaire: ./SUMMARY.md
+  sommaire: SUMMARY.md
