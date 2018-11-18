@@ -9,6 +9,28 @@ recherche docu comme préalable à l'enquête.
 ### Guide de l'enquête de terrain — BEAUD/WEBER
 
 {% tabs %}
+{% tab title="Choisir un thème et un terrain" %}
+## Les principes du choix d'un thème
+
+La traduction d'une question générale \(sociale ou académique\) -&gt; en question d'enquête \(objet empirique\).
+
+Notre thème doit pouvoir faire l'objet d'un travail de terrain, dans le délai imparti, donc plutôt un "petit" objet d'enquête.
+
+### Être guidé par une question de départ
+
+La réalisation de notre enquête doit être guidée par une question de départ formulée dans l'univers politico-médiatique ou dans l'univers théorico-académique. Doit être rapidement confrontée à des formulation théoriques \(lectures\) et à la première délimitation d'une "population" concernée. Notre question de départ doit avoir un sens dans l'univers d'interconnaissance qui va devenir notre enquête de terrain \(éviter l'ethnocentrisme\).
+
+### Faire jouer le principe d'interconnaissance \(=le fait que des personnes se connaissent mutuellement, de vue, de nom ou d'expérience\)
+
+On ne choisit pas ses enquêtés: bien souvent dans l'enquête, c'est l'occasion qui fait le larron.
+
+Une enquête de terrain n'est adaptée que si elle s'effectue dans un milieu d'interconnaissance: la présence de l'enquêteur va agir comme un révélateur \(=confronter le discours des enquêtés à leurs pratiques et à leur univers de référence\). L'obs ethnographique ne porte pas sur des univers d'individus mais des univers de relations.
+
+L'enquête joue sur la norme de la réciprocité, l'oublier, c'est croire qu'on peut sortir un poisson de l'eau pour mieux observer comment il nage. Rester dans une position extérieure c'est se condamner à regarder la société en touriste, c'est privilégier la vue sur l'intellect = l'enquête est active. Elle court le risque des interactions et des malentendus pour éviter celui des contresens et surinterprétations.
+
+### Du thème à la question d'enquête
+{% endtab %}
+
 {% tab title="Le travail d\'enquête" %}
 ### Observer
 
@@ -22,10 +44,6 @@ Condensés de relations qui offrent ensemble les 3 niveaux d'observables: un év
 * Comptez l'assistance
 * Distinguer personne mobiles/immobiles ; des groupes ; des places/points de vue
 * Changez de place si possible
-{% endtab %}
-
-{% tab title="Chap.3" %}
-
 {% endtab %}
 {% endtabs %}
 
