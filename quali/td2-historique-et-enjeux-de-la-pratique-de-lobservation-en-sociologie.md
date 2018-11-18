@@ -9,7 +9,7 @@ recherche docu comme préalable à l'enquête.
 ### Guide de l'enquête de terrain — BEAUD/WEBER
 
 {% tabs %}
-{% tab title="Choisir un thème et un terrain" %}
+{% tab title="I/ Choisir un thème et un terrain" %}
 ## Les principes du choix d'un thème
 
 La traduction d'une question générale \(sociale ou académique\) -&gt; en question d'enquête \(objet empirique\).
@@ -29,9 +29,27 @@ Une enquête de terrain n'est adaptée que si elle s'effectue dans un milieu d'i
 L'enquête joue sur la norme de la réciprocité, l'oublier, c'est croire qu'on peut sortir un poisson de l'eau pour mieux observer comment il nage. Rester dans une position extérieure c'est se condamner à regarder la société en touriste, c'est privilégier la vue sur l'intellect = l'enquête est active. Elle court le risque des interactions et des malentendus pour éviter celui des contresens et surinterprétations.
 
 ### Du thème à la question d'enquête
+
+Notre curiosité pour le monde social est le ressort de tout enquête de terrain : "Mais pourquoi c'est comme ça?" Le monde ne va pas de soi.
+
+### Qui pose les questions? Un pb de traduction
+
+Selon Beaud/Weber, toute recherche en sc.sociales navigue dans 3 univers distincts mais en relation:
+
+1. l'univers de la demande sociale. Univers qui propose des thèmes d'enquêtes, c'est l'univers politico-médiatique, on baigne dedans sans le savoir.
+2. l'univers académique. Propose des sujets de recherche, c'est l'univers de nos profs, l'univers des lectures sérieuses, notes de bas de page...
+3. l'univers d'interconnaissance. Il vaut mieux que notre première enquête reste ancrée dans ce 3ème univers. En effet, l'univers d'interconnaissance qu'on a choisi comme terrain propose déjà des réponses à des questions qu'on ne se pose pas forcément. Arriver à poser des question adaptées aux réponses des enquêtés, c'est traduire les thèmes \(de l'univers de la demande sociale\) et les sujets \(de l'univers académique\) en objets \(questions adaptées aux réponses empiriques\).
+
+Enquête par dépaysement / enquête par distanciation
+
+### Du thème au terrain
+
+> Une enquête qui ne transforme pas les termes de la question de départ est une mauvaise enquête, inutile et inefficace.
+
+Les durkheimiens plaidaient pour une définition provisoire de l'objet. En matière d'enquête de terrain, ce principe vaut presque a fortiori. Mais on peut insister sur son caractère provisoire, car c'est le terrain qui dicte sa loi à l'enquêteur, non l'inverse.
 {% endtab %}
 
-{% tab title="Le travail d\'enquête" %}
+{% tab title="II/ Le travail d\'enquête" %}
 ### Observer
 
 #### Une observation totale
