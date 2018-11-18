@@ -214,5 +214,19 @@ Auto-analyse: la place du "je". La réflexivité doit se faire "épistémique" p
 
 ### Manuel de recherche en sciences sociales — CAMPENHOUDT/MARQUET/QUIVY
 
+{% tabs %}
+{% tab title="III/ La problématique" %}
+### Objectifs
 
+La problématique est l'approche ou la perspective théorique qu'on décide d'adopter pour traiter le problème posé par la question de départ. C'est l'angle sous lequel les phénomènes vont être étudiés, la manière dont on va les interroger. Pour une question de départ, plusieurs problématiques envisageables.
+
+Le concept comme outil de problématisation
+
+Au sens large, expliquer un phénomène consiste à établir un lien entre ce phénomène et autre chose qui est censé intervenir dans le fait qu'il soit advenu. 
+{% endtab %}
+
+{% tab title="Second Tab" %}
+
+{% endtab %}
+{% endtabs %}
 
