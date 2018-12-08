@@ -9,8 +9,10 @@ recherche docu comme préalable à l'enquête.
 ### Guide de l'enquête de terrain — BEAUD/WEBER
 
 {% tabs %}
-{% tab title="I/ Choisir un thème et un terrain" %}
-## Les principes du choix d'un thème
+{% tab title="Les conditions de l\'enquête" %}
+## Choisir un thème et un terrain
+
+### Les principes du choix d'un thème
 
 La traduction d'une question générale \(sociale ou académique\) -&gt; en question d'enquête \(objet empirique\).
 
@@ -47,9 +49,11 @@ Enquête par dépaysement / enquête par distanciation
 > Une enquête qui ne transforme pas les termes de la question de départ est une mauvaise enquête, inutile et inefficace.
 
 Les durkheimiens plaidaient pour une définition provisoire de l'objet. En matière d'enquête de terrain, ce principe vaut presque a fortiori. Mais on peut insister sur son caractère provisoire, car c'est le terrain qui dicte sa loi à l'enquêteur, non l'inverse.
+
+## Mener l'enquête
 {% endtab %}
 
-{% tab title="II/ Le travail d\'enquête" %}
+{% tab title="Le travail d\'enquête" %}
 ### Observer
 
 #### Une observation totale
