@@ -110,10 +110,28 @@ Condensés de relations qui offrent ensemble les 3 niveaux d'observables: un év
 ### L'observation directe — ARBORIO / FOURNIER
 
 {% tabs %}
-{% tab title="II/ L\'enquête de terrain" %}
+{% tab title="2. L\'enquête de terrain" %}
 ### Des choix en amont
 
 Dans le cas du terrain, la construction de l'objet se trouve largement contrainte/prédéfinie par les modalités d'observations possibles: la position d'obs. à hauteur d'homme fixe les limites de la situation observable ; la durée d'enquête en détermine la profondeur. La délimitation de l'objet est pour partie renvoyée au moment de l'analyse de la relation d'enquête, moment où se précisent les aspects de la réalité que les observations finalement réalisées éclairent le mieux.
+{% endtab %}
+
+{% tab title="3. Collecter les matériaux" %}
+L'observation sur le terrain porte d'abord sur les pratiques sociales qui s'y déploient: verbales, gestuelles... La spécificité de l'observation sociologique: rechercher ce que la pratique doit à l'immersion de son auteur dans le monde social et qu'elle nous dit de son fonctionnement. Présenter les dimensions normatives du contexte pesant sur les pratiques.
+
+En somme, porter l'attention sur le cadre contraignant, normatif de la situation. La saisie des pratiques sociales passe par l'examen détaillé de scènes de la vie sociale, les enchaînements d'actions. Pour tenir ensemble pratique et à-côté de la pratique: examiner l'occupation du temps et de l'espace en dehors de la pratique est une voie décisive.
+
+L'exercice de la mémoire est couplé avec le besoin permanent de cohérence, de compréhension, et d'interprétation. Faculté d'étonnement du chercheur qui est un ressort de l'acuité de la mémoire.
+
+#### Quelles formes donner aux informations recueillies? 
+
+Les données d'obs doivent avoir été mises en forme avec précision. La forme la plus évidente est la description détaillée: les vêtements des acteurs, les objets manipulés, le décor, le détail des gestes, les arguments sollicités...
+
+Aussi souvent que possible, les constats doivent prendre la forme de comptages. Ce souci de systématicité dans les constats se retrouve dans l'objectivation de l'occupation du temps et de l'espace: chroniques d'activité comme cartes de déambulation.
+
+Fiches biographiques des acteurs: sexe, âge, statut mais aussi hexis, choix vestimentaires, pratiques langagières...
+
+Lexique indigène: recueil des paroles échangées en situation
 {% endtab %}
 {% endtabs %}
 
