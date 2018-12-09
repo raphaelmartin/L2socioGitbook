@@ -51,10 +51,48 @@ Enquête par dépaysement / enquête par distanciation
 Les durkheimiens plaidaient pour une définition provisoire de l'objet. En matière d'enquête de terrain, ce principe vaut presque a fortiori. Mais on peut insister sur son caractère provisoire, car c'est le terrain qui dicte sa loi à l'enquêteur, non l'inverse.
 
 ## Mener l'enquête
+
+### Le journal de terrain, arme de l'ethnographe
+
+Il requiert la précision, le sens du détail, l'honnêteté du "garçon de laboratoire".
+
+Ne pas chercher à "évacuer" les prénotions: les consigner dans le journal. Les expliciter est le 1er travail de "rupture". Noter ses premières réactions à chaud: car c'est le journal qui transforme l'erreur manifeste en outil de mise en évidence, par le décalage, des normes différentes auxquelles sont soumis vos enquêtés et vous-même. C'est ce qu'on appelle l'auto-analyse: l'objectivation de nos attentes subjectives, socialement déterminés. Plutôt que de les censurer à l'avance, les notes permet d'en tenir compte pour la suite de nos interprétations.
+
+Seul le journal de terrain transforme une expérience sociale ordinaire en expérience ethnographique:  il restitue les faits, mais surtout le déroulement chronologique objectif des événements.
+
+## Les temps de l'enquête
+
+Le déroulement de l'enquête peut être décrit en termes d'hypothèses et de tests.
+
+On distingue 4 phases principales de l'enquête ethnographique: exploration, accumulation, remise en cause et réorientation, enfin vérification.
 {% endtab %}
 
 {% tab title="Le travail d\'enquête" %}
 ### Observer
+
+Triple travail de perception, mémorisation et notation. Relève du savoir-faire et de la technique.
+
+Dans toute interaction d'enquête, le malentendu sert à la fois de révélateur et de contrôle des interprétations immédiates de l'enquêteur. Obstacles? Non, outils de connaissance
+
+L'observation ne dépend que ne nous: pas de possibilité de malentendu, mais de contresens.
+
+Noter une observation est une technique particulière qu'on peut comparer à la série raisonnée de photographies strictement légendées.
+
+#### Qu'est-ce qu'observer?
+
+Enchaînement des 3 savoir-faire.
+
+Pour améliorer notre attention au monde social et le porter à la qualité d'observation, il faut:
+
+* expliciter nos perceptions/impressions mentalement puis par écrit
+* prendre conscience qu'elles dépendent d'un questionnement théorique mais surtout d'un point de vue empirique
+* faire varier systématiquement les points de vue que vous prenez empiriquement pour observer
+
+On peut distinguer 3 catégories d'évènements ou d'objets observables:
+
+1. cérémonies: évènements collectifs organisés
+2. interactions: il faut tenir un rôle
+3. lieux/objets: observables dans la quiétude de la solitude
 
 #### Une observation totale
 
@@ -64,7 +102,7 @@ Condensés de relations qui offrent ensemble les 3 niveaux d'observables: un év
 * Mémorisez le déroulement temporel de l'évènement
 * Mémorisez les mots
 * Comptez l'assistance
-* Distinguer personne mobiles/immobiles ; des groupes ; des places/points de vue
+* Distinguer personne mobiles/immobiles ; des groupes \(selon quels critères?\) ; des places/points de vue
 * Changez de place si possible
 {% endtab %}
 {% endtabs %}
