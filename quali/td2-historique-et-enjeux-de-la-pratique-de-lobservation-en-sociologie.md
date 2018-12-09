@@ -129,9 +129,19 @@ Les données d'obs doivent avoir été mises en forme avec précision. La forme 
 
 Aussi souvent que possible, les constats doivent prendre la forme de comptages. Ce souci de systématicité dans les constats se retrouve dans l'objectivation de l'occupation du temps et de l'espace: chroniques d'activité comme cartes de déambulation.
 
-Fiches biographiques des acteurs: sexe, âge, statut mais aussi hexis, choix vestimentaires, pratiques langagières...
+**Fiches biographiques** des acteurs: sexe, âge, statut mais aussi hexis, choix vestimentaires, pratiques langagières...
 
-Lexique indigène: recueil des paroles échangées en situation
+**Lexique indigène**: recueil des paroles échangées en situation
+
+### Noter, enregistrer
+
+Notes repères: les premières notes, prises sur le vif. Ne s'explicitent que lorsqu'elles s'étoffent à l'issue de la journée en un récit détaillé des évnmts auxquels elles renvoient.
+
+Le récit relève ainsi du journal de terrain. Matériau de base pour l'analyse.
+
+Le journal d'après-journal: en relisant le journal de terrain, écrit "sur le vif" du retour aux premières notes avec le souci de préciser, réagir aux formulations consignées.
+
+Les notes repères sont homogènes: se présentent sous la forme de listes. D'autres types... notes descriptives... réflexions personnelles
 {% endtab %}
 {% endtabs %}
 
