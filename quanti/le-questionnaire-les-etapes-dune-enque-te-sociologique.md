@@ -8,6 +8,13 @@ La méthodologie de la passation va avoir un impact sur nos résultats, la pop. 
 
 ## Les étapes d’une enquête par questionnaire
 
+### Différents types d'enquêtes
+
+1. l'enquête effectuée une seule fois: établir une photographie des comportements
+2. Les enquêtes biographiques ou rétrospectives
+3. Les enquêtes répétitives ou périodiques
+4. Les enquêtes longitudinales
+
 ### définition de l’objet d’enquête et constitution d’un questionnaire
 
 Délimiter le champ de l'enquête:
