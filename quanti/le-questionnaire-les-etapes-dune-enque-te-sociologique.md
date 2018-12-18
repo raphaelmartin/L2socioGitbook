@@ -57,7 +57,21 @@ Besoin de recodage fréquent \(questions ouvertes, variables numériques...\)
 
 ### principes généraux
 
+Découpage fréquent: première série courte de questions sur sexe/âge... 2ème série de questions sur l'objet de l'enquête. Et une dernière partie sur les déterminants sociaux: origine sociale, niveau d'étude, croyance religieuse, profession du conjoint...
+
+Cohérence: introduction, transitions, indications sur le choix des réponses.
+
+Une seule question par question
+
+Ne pas laisser supposer l'existence d'une bonne réponse \(biais d'acquiescement\)
+
 ### les différents types de questions et de réponse
+
+questions ouverte / fermée
+
+La modalité Autre
+
+Les échelles pour que les enquêtés se situent eux-même
 
 ### obtenir des réponses exploitables
 
