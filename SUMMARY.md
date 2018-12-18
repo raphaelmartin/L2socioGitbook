@@ -13,6 +13,7 @@
 * [Du questionnement au questionnaire. Comment objectiver les faits sociaux?](quanti/comment-objectiver-faits-sociaux.md)
 * [Le questionnaire : les étapes d’une enquête sociologique](quanti/le-questionnaire-les-etapes-dune-enque-te-sociologique.md)
 * [Les méthodes d'échantillonnage et la représentativité](quanti/les-methodes-dechantillonnage-et-la-representativite.md)
+* [Les variables](quanti/les-variables.md)
 
 ## Géographie historique et politique: pouvoirs et territoires
 
