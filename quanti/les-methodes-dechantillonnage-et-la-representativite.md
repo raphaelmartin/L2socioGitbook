@@ -1,6 +1,12 @@
 # Les méthodes d'échantillonnage et la représentativité
 
+## Intro
+
+Echantillonnage : sélectionner des individus pour qu’ils représentent l’ensemble de la population en fonction de critères déterminés. \(modèle réduit\)
+
 ## Les échantillons aléatoires ou probabilistes
+
+Principe : On tire au sort des individus qui sont interrogés nommément
 
 ### tirage au hasard
 
