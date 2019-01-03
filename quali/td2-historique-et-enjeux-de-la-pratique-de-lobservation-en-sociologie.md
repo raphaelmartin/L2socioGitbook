@@ -161,9 +161,9 @@ L'observation analytique s'attache à rendre compte de phénomènes à partir de
 {% tab title="3. Collecter les matériaux" %}
 L'observation sur le terrain porte d'abord sur les pratiques sociales qui s'y déploient: verbales, gestuelles... La spécificité de l'observation sociologique: rechercher ce que la pratique doit à l'immersion de son auteur dans le monde social et qu'elle nous dit de son fonctionnement. Présenter les dimensions normatives du contexte pesant sur les pratiques.
 
-En somme, porter l'attention sur le cadre contraignant, normatif de la situation. La saisie des pratiques sociales passe par l'examen détaillé de scènes de la vie sociale, les enchaînements d'actions. Pour tenir ensemble pratique et à-côté de la pratique: examiner l'occupation du temps et de l'espace en dehors de la pratique est une voie décisive.
+En somme, porter l'attention sur le cadre contraignant, normatif de la situation. La saisie des pratiques sociales et du sens donné par les acteurs passent par l'examen détaillé de scènes de la vie sociale, les enchaînements d'actions. Pour tenir ensemble pratique et à-côté de la pratique. Perception du régime de contraintes: examiner l'occupation du temps et de l'espace en dehors de la pratique est une voie décisive.
 
-L'exercice de la mémoire est couplé avec le besoin permanent de cohérence, de compréhension, et d'interprétation. Faculté d'étonnement du chercheur qui est un ressort de l'acuité de la mémoire.
+L'exercice de la mémoire est couplé avec le besoin permanent de cohérence, de compréhension, et d'interprétation. Faculté d'étonnement du chercheur qui est un ressort de l'acuité de la mémoire. L'exercice de la mémoire couplée à la faculté d'étonnement.
 
 #### Quelles formes donner aux informations recueillies? 
 
