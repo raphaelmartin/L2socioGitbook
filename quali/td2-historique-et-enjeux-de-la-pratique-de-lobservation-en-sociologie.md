@@ -126,6 +126,24 @@ En tirer 2 séries de notation:
 2. Réanalyser à froid, grâce à notre première prise de note, de ce qui semblait aller de soi.
 
 ### Contextualiser
+
+La contextualisation des données ethno est le principal garde-fou contre toutes les généralisations hâtives ou indues.
+
+La nécessité de la contextualisation: les premiers moments de l'entrée sur le terrain, décrire et analyser les relations d'enquête.
+
+Analyser le déroulement de l'enquête : relire le journal de terrain. On peut distinguer 3 contextes utiles pour l'analyse des données ethno:
+
+1. Le contexte immédiat, en situation. Cadre matériel, déroulement, à l'échelle de la journée. Niveau de l'interaction dans laquelle on a été pris.
+2. Le contexte de l'enquête toute entière. Réputation d'où on a notre place, quel statut on nous a assigné.
+3. Le contexte social dans lequel est pris chacun de nos enquêtés. Il s'agit de restituer les univers de référence de vos interlocuteurs : il faut travailler ici à l'échelle individuelle. Nos enquêtés ont une connaissance subjective d'éléments objectifs, notre tâche est de mettre ces 2 aspects en relation.
+
+A la fin, on a nos matériaux triés:
+
+* plusieurs chemises d'obs classées par séries ; chaque moment observé est autonomisé et nommé \("un conflit de personnes au travail" ; "la fête de l'école maternelle".
+* des docs rassemblés \(coupures de journaux, statistiques, photos\), datés et référencés
+* Fiche récap qui résume la chrono de l'enquête
+* A la fin du journal de recherche, rédiger la "problématique", ce qu'on cherche à démontrer, la série des principales hypothèses qu'on a progressivement dégagées.
+* A la fin du journal d'enquête, restituez la série des places que vous avez occupées et le processus nous passant de l'une à l'autre
 {% endtab %}
 {% endtabs %}
 
