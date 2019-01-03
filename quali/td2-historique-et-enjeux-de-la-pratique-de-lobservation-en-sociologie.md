@@ -154,6 +154,8 @@ A la fin, on a nos matériaux triés:
 ### Des choix en amont
 
 Dans le cas du terrain, la construction de l'objet se trouve largement contrainte/prédéfinie par les modalités d'observations possibles: la position d'obs. à hauteur d'homme fixe les limites de la situation observable ; la durée d'enquête en détermine la profondeur. La délimitation de l'objet est pour partie renvoyée au moment de l'analyse de la relation d'enquête, moment où se précisent les aspects de la réalité que les observations finalement réalisées éclairent le mieux.
+
+L'observation analytique s'attache à rendre compte de phénomènes à partir de constats circonstanciés, à les analyser au moyen de catégories qu'elle fait dériver de la pratique et à en restituer la cohérence par delà des déclinaisons empiriques singulières que la situation à caractériser rend possibles.
 {% endtab %}
 
 {% tab title="3. Collecter les matériaux" %}
