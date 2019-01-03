@@ -105,6 +105,28 @@ Condensés de relations qui offrent ensemble les 3 niveaux d'observables: un év
 * Distinguer personne mobiles/immobiles ; des groupes \(selon quels critères?\) ; des places/points de vue
 * Changez de place si possible
 {% endtab %}
+
+{% tab title="Analyser et publier les données ethno" %}
+### Travailler les entretiens/journal de terrain
+
+Produire des matériaux écrits: utiliser le JDT \(journal de terrain\) de 2 manières:
+
+1. restituer la chronologie de l'enquête et remettre chaque doc dans son contexte
+2. isoler des récits d'obs significatifs
+
+Faire un choix parmi ses entretiens/obs: ne pas avoir peur de hiérarchiser nos données, de se concentrer sur l'essentiel. Relire le JDT et repérer les evnmts les plus marquants en les comparant : on obtiendra des séries d'interactions/cérémonies répétées =&gt; mettre en relation des évènements qu'on n'a pas forcément vécus comme semblables.
+
+Le meilleur antidote au rêve d'exhaustivité: se poser sans cesse la question "Pour quoi faire?" Cette obs mérite-t-elle d'occuper une place centrale dans l'analyse? Pourquoi celle-ci, et pas une autre?
+
+Mettre au propre le journal de terrain
+
+En tirer 2 séries de notation:
+
+1. restituer le déroulement de l'enquête en retrouvant la chronologie des evntms
+2. Réanalyser à froid, grâce à notre première prise de note, de ce qui semblait aller de soi.
+
+### Contextualiser
+{% endtab %}
 {% endtabs %}
 
 ### L'observation directe — ARBORIO / FOURNIER
