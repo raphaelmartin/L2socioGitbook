@@ -185,6 +185,20 @@ Le journal d'après-journal: en relisant le journal de terrain, écrit "sur le v
 
 Les notes repères sont homogènes: se présentent sous la forme de listes. D'autres types... notes descriptives... réflexions personnelles
 {% endtab %}
+
+{% tab title="4. Vers l\'analyse" %}
+L'observateur et son double
+
+Si l'obs directe se définit comme: une observation menée sans recours à des instruments interposés entre le chercheur et son objet ... forme d'observation qui recourt au chercheur comme instrument d'observation, à distinguer du chercheur analyseur, exploitant, interprétant les données qui ont été recueillies avec cet instrument. Ce dédoublement ne va pas de soi.
+
+Mais c'est sur les effets de sa présence qu'on compte implicitement pour prétendre décrypter la réalité observée. L'enquête par obs directe consiste, peu ou prou, en une transplantation du chercheur dans un univers qui s'écarte du sien, imposant un déplacement du regard dont on peut tirer connaissance à partir de la confrontation des système de référence: le sien et celui/ceux des enquêtés.
+
+Le maître mot de l'analyse sociologique: la **comparaison**. On la retrouve à 3 niveaux:
+
+* comparer nos données de terrain entre elles, en relisant nos notes pour les coder, pour assigner à chaque action/acteur décrits un/des attributs pour identifier ceux ayant qqch en commun ou les opposant
+* comparer les données du terrain avec celles d'autres terrains
+* comparer enfin et surtout, les systèmes de références des acteurs observés et du chercheur tels qu'ils se manifestent dans la situation.
+{% endtab %}
 {% endtabs %}
 
 ### Le goût de l'observation — PENEFF
