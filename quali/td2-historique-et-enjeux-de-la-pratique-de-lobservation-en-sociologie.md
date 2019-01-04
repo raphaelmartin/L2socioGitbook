@@ -187,7 +187,7 @@ Les notes repères sont homogènes: se présentent sous la forme de listes. D'au
 {% endtab %}
 
 {% tab title="4. Vers l\'analyse" %}
-L'observateur et son double
+### L'observateur et son double
 
 Si l'obs directe se définit comme: une observation menée sans recours à des instruments interposés entre le chercheur et son objet ... forme d'observation qui recourt au chercheur comme instrument d'observation, à distinguer du chercheur analyseur, exploitant, interprétant les données qui ont été recueillies avec cet instrument. Ce dédoublement ne va pas de soi.
 
