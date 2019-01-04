@@ -169,11 +169,11 @@ L'exercice de la mémoire est couplé avec le besoin permanent de cohérence, de
 
 Les données d'obs doivent avoir été mises en forme avec précision. La forme la plus évidente est la description détaillée: les vêtements des acteurs, les objets manipulés, le décor, le détail des gestes, les arguments sollicités...
 
-Aussi souvent que possible, les constats doivent prendre la forme de comptages. Ce souci de systématicité dans les constats se retrouve dans l'objectivation de l'occupation du temps et de l'espace: chroniques d'activité comme cartes de déambulation.
+Aussi souvent que possible, les constats doivent prendre la forme de comptages, dénombrements. Ce souci de systématicité dans les constats se retrouve dans l'objectivation de l'occupation du temps et de l'espace: chroniques d'activité comme cartes de déambulation.
 
 **Fiches biographiques** des acteurs: sexe, âge, statut mais aussi hexis, choix vestimentaires, pratiques langagières...
 
-**Lexique indigène**: recueil des paroles échangées en situation
+**Lexique indigène**: recueil des paroles échangées en situation. Conversation: la parole comme pratique sociale.
 
 ### Noter, enregistrer
 
@@ -181,7 +181,7 @@ Notes repères: les premières notes, prises sur le vif. Ne s'explicitent que lo
 
 Le récit relève ainsi du journal de terrain. Matériau de base pour l'analyse.
 
-Le journal d'après-journal: en relisant le journal de terrain, écrit "sur le vif" du retour aux premières notes avec le souci de préciser, réagir aux formulations consignées.
+Le journal d'après-journal: en relisant le journal de terrain, écrit "sur le vif" du retour aux premières notes avec le souci de préciser, réagir aux formulations consignées. Ainsi, une scène prise en note repère ne sera pas vraiment reprise mais servira de prétexte pour développer quelques pistes d'analyse et pour se remémorer d'autres scènes.
 
 Les notes repères sont homogènes: se présentent sous la forme de listes. D'autres types... notes descriptives... réflexions personnelles
 {% endtab %}
