@@ -10,3 +10,5 @@ CHRISTIN, _Comparutions immédiates. Enquête sur une pratique judiciaire_, 20
 
 **Articles médiatiques** en rapport avec le mouvement des gilets jaunes, notamment sa dimension judiciaire et les commentaires \("justice de classe", la Terreur...\)
 
+MATIÈRES À PENSER AVEC ANTOINE GARAPON par Antoine Garapon LE JEUDI DE 22H15 À 23H Réécouter Une ethnologue parmi les juges 45 MIN Une ethnologue parmi les juges 11/01/2018
+
