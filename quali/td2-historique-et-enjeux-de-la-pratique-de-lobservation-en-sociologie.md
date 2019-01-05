@@ -199,6 +199,10 @@ Le maître mot de l'analyse sociologique: la **comparaison**. On la retrouve à 
 * comparer les données du terrain avec celles d'autres terrains
 * comparer enfin et surtout, les systèmes de références des acteurs observés et du chercheur tels qu'ils se manifestent dans la situation.
 {% endtab %}
+
+{% tab title="6. Le compte-rendu" %}
+
+{% endtab %}
 {% endtabs %}
 
 ### Le goût de l'observation — PENEFF
