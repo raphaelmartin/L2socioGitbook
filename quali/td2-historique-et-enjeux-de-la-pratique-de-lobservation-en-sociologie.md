@@ -107,18 +107,12 @@ Condensés de relations qui offrent ensemble les 3 niveaux d'observables: un év
 {% endtab %}
 
 {% tab title="Analyser et publier les données ethno" %}
-La phase la plus angoissante? En réalité, nos matériaux sont déjà en partie analysés. Nous reste un travail de relecture, mise en fiche, mise en ordre. 3 outils à notre disposition:
-
-1. **L'écriture/notation/transcription**: qui transforme l'enquête en document, permet la mise à distance
-2. **La lecture critique**: qui rapporte ces documents à leurs contextes
-3. **Le classement**: met en fiches des éléments disparates, fait apparaitre des relations invisibles, extérieure à l'interaction.
-
 ### Travailler les entretiens/journal de terrain
 
 Produire des matériaux écrits: utiliser le JDT \(journal de terrain\) de 2 manières:
 
-1. Restituer la chronologie de l'enquête et remettre chaque document dans son contexte
-2. Isoler des récits d'observation significatifs
+1. restituer la chronologie de l'enquête et remettre chaque doc dans son contexte
+2. isoler des récits d'obs significatifs
 
 Faire un choix parmi ses entretiens/obs: ne pas avoir peur de hiérarchiser nos données, de se concentrer sur l'essentiel. Relire le JDT et repérer les evnmts les plus marquants en les comparant : on obtiendra des séries d'interactions/cérémonies répétées =&gt; mettre en relation des évènements qu'on n'a pas forcément vécus comme semblables.
 
@@ -128,10 +122,8 @@ Mettre au propre le journal de terrain
 
 En tirer 2 séries de notation:
 
-1. Restituer le déroulement de l'enquête en retrouvant la chronologie des evntms. Etablir sous forme résumée cette chronologie en restituant les liens entre les moments
-2. Réanalyser à froid notre 1ère transcription des évnmts en explicitant ce qui nous semblait alors "aller de soi" par rapport à l'évnmt.
-
-On doit chercher à rendre au compte au maximum de tout ce qui s'est passé, à comprendre comment on en est arrivé là, à restituer un processus.
+1. restituer le déroulement de l'enquête en retrouvant la chronologie des evntms
+2. Réanalyser à froid, grâce à notre première prise de note, de ce qui semblait aller de soi.
 
 ### Contextualiser
 
@@ -143,7 +135,7 @@ Analyser le déroulement de l'enquête : relire le journal de terrain. On peut d
 
 1. Le contexte immédiat, en situation. Cadre matériel, déroulement, à l'échelle de la journée. Niveau de l'interaction dans laquelle on a été pris.
 2. Le contexte de l'enquête toute entière. Réputation d'où on a notre place, quel statut on nous a assigné.
-3. Le contexte social dans lequel est pris chacun de nos enquêtés. Il s'agit de restituer les univers de référence de vos interlocuteurs : il faut travailler ici à l'échelle individuelle. Nos enquêtés ont une connaissance subjective d'éléments objectifs, notre tâche est de mettre ces 2 aspects en relation. Saisir les évidences dans lesquelles nos interlocuteurs baignent.
+3. Le contexte social dans lequel est pris chacun de nos enquêtés. Il s'agit de restituer les univers de référence de vos interlocuteurs : il faut travailler ici à l'échelle individuelle. Nos enquêtés ont une connaissance subjective d'éléments objectifs, notre tâche est de mettre ces 2 aspects en relation.
 
 A la fin, on a nos matériaux triés:
 
@@ -154,6 +146,60 @@ A la fin, on a nos matériaux triés:
 * A la fin du journal d'enquête, restituez la série des places que vous avez occupées et le processus nous passant de l'une à l'autre
 
 ### Interpréter et rédiger
+
+Dorénavant en possession d'un puzzle avec des morceaux plus ou moins gros. On va les assembler. Ne pas chercher à théoriser/généraliser à tout prix. C'est un "compte rendu d'enquête", le terrain ne doit pas disparaître sous les concepts mais, "les concepts doivent éclairer le terrain et rendre justice aux cas singuliers".
+
+3 éléments à retenir avant de faire des comparaisons systématiques, la mise en relation entre:
+
+1. positions objectives/pratiques/points de vue subjectifs
+2. mots indigènes/silences
+3. malentendus
+
+#### Vers une problématique
+
+séries d'obs + contextualisation par l'enquête \(son déroulement, l'évolution des relations d'enquête\). Comparer les matériaux d'enquête, puis tenter de dégager à partir de leur reclassement, une problématique.
+
+**Comparer les matériaux entre eux. Un contrôle croisé**  
+Confronter les matériaux entre eux malgré leur hétérogénéité. A plusieurs niveaux:
+
+* au niveau de l'enquête elle-même, par un recoupement des infos
+* au niveau de l'interprétation générale, comparez nos données avec d'autres, trouvées dans des textes publiés sur notre sujet.
+
+**Dégager une problématique**  
+Reclasser mnt nos matériaux sans plus tenir compte de l'ordre chronologique, mais en les organisant selon un ordre logique. 2 étapes:
+
+1. Changer les titres de nos chemises. Par exemple, il faut passer de: "Une fête à l'école maternelle" -&gt; "Relations familles/écoles". Passer des cas singuliers aux questions conceptuelles auxquelles ces cas répondent. Réduire le cas à l'ensemble de ses caractéristiques objectives, en sélectionner une pour orienter la lecture du matériau.
+2. Manipuler ces chemises pour comprendre les liens logiques entre les questions dégagées \(l'une est incluse dans l'autre, complément, contraste, convergences...\)
+
+> Nos cas singuliers, événements observés, ne sont pas des exemples illustratifs de théories qui leur préexistent, mais des points d'appui pour faire avancer des hypothèses à tester, approfondir, abandonner.
+
+Quelques conseils importants:
+
+1. Clarifier nos objectifs = quelle est la question, parmi toutes celles auxquelles nos matériaux répondent, la plus importante. L'écrire, puis expliciter notre objet en quelques paragraphes. Les matériaux classés sont des "questions secondaires". Comment ils représentent autant d'étapes pour mener à la question principale? Abuser de brouillons, flèches, schémas...
+2. Accepter l'idée qu'entre 1/3 et la moitié de nos matériaux ne nous serviront à rien.
+
+#### Ecrire un compte rendu d'enquête
+
+**Une langue simple**  
+Le travail d'écriture ethnographique se distingue du travail littéraire, il ne cherche pas "l'effet de réel", mais la rigueur et la précision dans sa démonstration, réponse aux objections. Viser l'explicitation dans la concision. Prendre au sérieux le terme "compte rendu" : on rends des comptes. On ne doit pas séduire notre lecteur. Sans pour autant tomber dans l'étalage de références.
+
+**Rendre compte**  
+On doit donc produire un raisonnement à la hauteur de nos données: ni trop ni trop peu. Ne pas craindre de montrer les "trous" de nos documentation. Rédiger un CR d'enquête, c'est à la fois expliciter les détails et relier par un raisonnement ces mêmes détails. Nos données ne doivent pas servir simplement d'illustration à notre propos, on doit le construire à partir de l'interprétation des données.
+
+**Quelques règles:**
+
+1. poser un problème en introduction \(la rédiger à la fin\)
+2. faire notre démonstration point par point
+3. sous chaque point, s'appuyer sur un "cas" parmi nos matériaux
+4. exhiber ce cas en annexe/en parallèle, càd: l'autonomiser / le recontextualiser
+
+#### Les principaux écueils
+
+Le syndrome de l'énumération
+
+la tenation littéraire
+
+la complication inutile
 {% endtab %}
 {% endtabs %}
 
@@ -208,6 +254,12 @@ Le maître mot de l'analyse sociologique: la **comparaison**. On la retrouve à 
 * comparer nos données de terrain entre elles, en relisant nos notes pour les coder, pour assigner à chaque action/acteur décrits un/des attributs pour identifier ceux ayant qqch en commun ou les opposant
 * comparer les données du terrain avec celles d'autres terrains
 * comparer enfin et surtout, les systèmes de références des acteurs observés et du chercheur tels qu'ils se manifestent dans la situation.
+
+L'expérience que vit le chercheur du décalage entre son système de références / celui des enquêtés peut être révélatrice, à condition d'être analysée. Comparatisme particulier: analyser son système propre dans sa tension avec celui qu'il s'est vu obligé d'adopter.
+
+### Cultiver les facultés d'observation
+
+De l'étonnement au décentrement
 {% endtab %}
 
 {% tab title="6. Le compte-rendu" %}

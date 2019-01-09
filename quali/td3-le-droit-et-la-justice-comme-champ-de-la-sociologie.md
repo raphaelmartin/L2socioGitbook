@@ -28,6 +28,8 @@ Sur les objectifs de connaissance, 3 régimes de connaissance
 2. Perspective marxiste: le droit sous-produit d'un modèle explicatif centré sur la domination sociale dénonçant en particulier son pouvoir mystificateur
 3. Instrumentaliser la perspective socio pour des visées d'amélioration du droit
 
+L
+
 * BESNIER, _La vérité côté cour. Une ethnologue aux assises_, 2017
 * ESQUERRE, _Comment la sociologie peut déplier le droit_, 2014
 * CHRISTIN, _Comparutions immédiates. Enquête sur une pratique judiciaire_, 2008
