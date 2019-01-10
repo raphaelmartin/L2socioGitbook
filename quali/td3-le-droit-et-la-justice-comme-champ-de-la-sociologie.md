@@ -28,7 +28,12 @@ Sur les objectifs de connaissance, 3 régimes de connaissance
 2. Perspective marxiste: le droit sous-produit d'un modèle explicatif centré sur la domination sociale dénonçant en particulier son pouvoir mystificateur
 3. Instrumentaliser la perspective socio pour des visées d'amélioration du droit
 
-L
+#### L'essor et la normalisation de la socio du droit
+
+Des premiers questionnements métaphysiques sans fin, désormais l'analyse se fait moins marquée par des considérations utilitaristes ou normatives. 4 principales directions se dégagent des travaux actuels de socio du droit:
+
+1. la réception des perspectives wébériennes a ouvert à une compréhension du droit comme activité sociale. A la rigidité supposé du droit s'est substitué les interactions entre règle de droit et pratiques sociales. _Cause lawyering_
+2. _Legal cousciousness studies_: le caractère indéterminé du droit.
 
 * BESNIER, _La vérité côté cour. Une ethnologue aux assises_, 2017
 * ESQUERRE, _Comment la sociologie peut déplier le droit_, 2014
