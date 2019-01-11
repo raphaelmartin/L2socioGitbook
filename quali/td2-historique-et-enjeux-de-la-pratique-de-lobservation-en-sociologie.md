@@ -111,8 +111,8 @@ Condensés de relations qui offrent ensemble les 3 niveaux d'observables: un év
 
 Produire des matériaux écrits: utiliser le JDT \(journal de terrain\) de 2 manières:
 
-1. restituer la chronologie de l'enquête et remettre chaque doc dans son contexte
-2. isoler des récits d'obs significatifs
+1. Restituer la chronologie de l'enquête et remettre chaque document dans son contexte
+2. Isoler des récits d'observation significatifs
 
 Faire un choix parmi ses entretiens/obs: ne pas avoir peur de hiérarchiser nos données, de se concentrer sur l'essentiel. Relire le JDT et repérer les evnmts les plus marquants en les comparant : on obtiendra des séries d'interactions/cérémonies répétées =&gt; mettre en relation des évènements qu'on n'a pas forcément vécus comme semblables.
 
@@ -122,10 +122,12 @@ Mettre au propre le journal de terrain
 
 En tirer 2 séries de notation:
 
-1. restituer le déroulement de l'enquête en retrouvant la chronologie des evntms
-2. Réanalyser à froid, grâce à notre première prise de note, de ce qui semblait aller de soi.
+1. Restituer le déroulement de l'enquête en retrouvant la chronologie des evntms. Etablir sous forme résumée cette chronologie en restituant les liens entre les moments
+2. Réanalyser à froid notre 1ère transcription des évnmts en explicitant ce qui nous semblait alors "aller de soi" par rapport à l'évnmt.
 
-### Contextualiser
+On doit chercher à rendre au compte au maximum de tout ce qui s'est passé, aux détails significatifs, à comprendre comment on en est arrivé là, à restituer un processus.
+
+**Contextualiser**
 
 La contextualisation des données ethno est le principal garde-fou contre toutes les généralisations hâtives ou indues.
 
