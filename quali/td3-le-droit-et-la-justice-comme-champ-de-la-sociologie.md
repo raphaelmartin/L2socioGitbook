@@ -2,9 +2,9 @@
 
 ## ouvrages
 
-### ▸DELPEUCH, DUMOULIN, DE GALEMBERT, _Sociologie du droit et de la justice_, 2014 \(intro ; chap.1 Le droit dans la régulation sociale ; chap.4 Droit et Etat ; chap.7 Professionnels du droit et de la justice\)
-
 #### intro
+
+### ▸DELPEUCH, DUMOULIN, DE GALEMBERT, _Sociologie du droit et de la justice_, 2014 \(intro ; chap.1 Le droit dans la régulation sociale ; chap.4 Droit et Etat ; chap.7 Professionnels du droit et de la justice\)
 
 **positivisme juridique**: le droit comme un système clos, autoréférentiel et parfaitement autonome \(de la société, du politique\). Les précurseurs de cette réflexion sur le droit informé par les sc.sociales se retrouvent dans la conviction sur "_la nature éminemment sociale du droit_". Prise en considération des logiques sociales, histo, culturelles, pol et éco.
 
@@ -28,6 +28,10 @@ Sur les objectifs de connaissance, 3 régimes de connaissance
 2. Perspective marxiste: le droit sous-produit d'un modèle explicatif centré sur la domination sociale dénonçant en particulier son pouvoir mystificateur. Sociologie dénonciatrice d'un droit complice. MARX identifie les déterminants sociaux d'un texte législatif qui transforme en acte délictuel un droit auparavant \(le vol de bois\). Aux US, les _Critical Legal Studies_ mettent en évidence la fonction idéologique du droit légitimant, en les naturalisant, les divisions et hiérarchies sociales inhérentes au capitalisme.
 3. Instrumentaliser la perspective socio pour des visées d'amélioration du droit
 
+#### médias, web
+
+**Articles médiatiques** en rapport avec le mouvement des gilets jaunes, notamment sa dimension judiciaire et les commentaires \("justice de classe", la Terreur...\)
+
 #### L'essor et la normalisation de la socio du droit
 
 Des premiers questionnements métaphysiques sans fin, désormais l'analyse se fait moins marquée par des considérations utilitaristes ou normatives. 4 principales directions se dégagent des travaux actuels de socio du droit:
@@ -35,7 +39,7 @@ Des premiers questionnements métaphysiques sans fin, désormais l'analyse se fa
 1. la réception des perspectives wébériennes a ouvert à une compréhension du droit comme activité sociale. A la rigidité supposé du droit s'est substitué les interactions entre règle de droit et pratiques sociales. _Cause lawyering_
 2. _Legal cousciousness studies_: le caractère indéterminé du droit.
 
-### ▸BESNIER, _La vérité côté cour. Une ethnologue aux assises_, 2017
+### ▸BESNIER, _La vérité côté cour. Une ethnologue aux assises_, 2017
 
 #### Compte-rendu de Aziz JELLAB \(CERIES, Université Lille-3\), Droit&Société
 
@@ -52,7 +56,7 @@ La comparaison cour d'assises / labo scientifique &gt; si le tribunal cherche à
 
 Enfin, la manière dont elle présente la formation de la conviction est réductrice: toute dimension morale est évacuée. Louis GRUEL explique que les jurés évaluent les accusés/victimes en se référant à des "_personnes_", dont "_la qualité, l'épaisseur, la valeur se logent dans l'accomplissement convenable de rôles sociaux_" =&gt; le jugement s'articule à des catégories socialement prédéfinies de rôles sociaux attendus et auxquels il faut se conformer.
 
-### ▸ESQUERRE, _Comment la sociologie peut déplier le droit_, 2014
+### ▸ESQUERRE, _Comment la sociologie peut déplier le droit_, 2014
 
 A quelles conditions peut-on dire quelque chose de la société à partir du droit? Aucune condition nécessaire, dirait un internaliste \(=le droit autonome\). Aucune distance n'existerait entre le corpus de règles juridiques et la société. MARX soutenait l'inverse.
 
@@ -66,13 +70,7 @@ Il ne s'agit pas de considérer que le droit n'est jamais efficace, au contraire
 
 Le droit joue un rôle déterminant dans les processus de stabilisation de la "réalité", lui-même pris dans une instabilité. Celle-ci est à situer dans un double mouvement: le droit modifié par la mobilisation d'agents sociaux / le droit modifié par ceux en position à l'intérieur de l'Etat. Le pouvoir exécutif s'est considérablement et constamment renforcé au détriment du pouvoir législatif.
 
+* CHRISTIN, _Comparutions immédiates. Enquête sur une pratique judiciaire_, 2008
 
-
-* CHRISTIN, _Comparutions immédiates. Enquête sur une pratique judiciaire_, 2008
-
-#### médias, web
-
-**Articles médiatiques** en rapport avec le mouvement des gilets jaunes, notamment sa dimension judiciaire et les commentaires \("justice de classe", la Terreur...\)
-
-
+compte-rendu
 
