@@ -261,7 +261,38 @@ L'expérience que vit le chercheur du décalage entre son système de référenc
 
 ### Cultiver les facultés d'observation
 
-De l'étonnement au décentrement
+#### De l'étonnement au décentrement
+
+Une façon de maintenir sa capacité d'étonnement en éveil est de se remettre à l'esprit ce qu'on s'attendait à observer avant l'entrée sur le terrain. Cet "inventaire avant enquête" fournit une objectivation de nos propres préjugés.
+
+Faire de l'étonnement une ressource prévient contre "l'identification" \(n'être attiré que par ce qui peut conforter ses hypothèses décidées à l'avance\). Mais il faut être prudent de son étonnement comme signe de différences dans les systèmes de références. Il n'est pas exclu qu'il renvoie parfois à une simple méconnaissance de son propre monde.
+
+#### De l'envie de tout comprendre à la faculté de trier
+
+La frustration, face à une situation étrange, stimule le goût de l'explication. Processus inconscient d'invention interprétative: le besoin de trier. La consigne d'observer est large: il faut s'interroger sur les tris qu'on n'opère pas toujours en conscience. Tout noter, car ce qui nous semble trivial, inabordable représenteront des détails cruciaux une fois compris.
+
+Le temps de l'écriture après observation permet de fixer la mémoire, de nous familiariser tout en mettant en recul \(réflexivité\) : l'écriture révèle tel point de la situation jusque là passé sous silence.
+
+#### Une cohérence par fragments
+
+Il faut systématiser les données d'observation pour classer chaque action avec ses variante, chaque événement comme combinaisons d'actions qu'on décompose.
+
+Selon quel axe établir ses regroupements? WHYTE évoque 2 pistes: les actions ; les acteurs.
+
+De ces exercices de systématisation/classement ressortent des fragments de compréhension, La validation de cette "cohérence par parties" de ces intuitions, sont d'abord de l'ordre de la non-invalidation. On cherche les contradictions par confrontation avec nos premières interprétations partielles ou via des données descriptives de nouvelles observations.
+
+#### Des différences dans les systèmes de références
+
+ Après l'observation, il faut rompre avec les systèmes de références des enquêtés. Le meilleur moyen est de se faire spectateur des confrontations entre systèmes de ref. dont la configuration d'observation est l'occasion.
+
+Faire accoucher le chercheur : soumettre ses observations à des pairs qualifiés ou lire des travaux du même type sur des sujets voisins. Mettre à l'épreuve nos catégorisations par la comparaison.
+
+#### Vers des interprétations totalisantes
+
+1. Saisir les systèmes indigènes de classement
+2. Catégoriser les acteurs autrement
+3. Les jeux d'acteurs dans des interactions suivies
+4. Restaurer l'économie des rapports sociaux
 {% endtab %}
 
 {% tab title="6. Le compte-rendu" %}

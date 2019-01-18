@@ -2,9 +2,9 @@
 
 ## ouvrages
 
-### ▸DELPEUCH, DUMOULIN, DE GALEMBERT, _Sociologie du droit et de la justice_, 2014 \(intro ; chap.1 Le droit dans la régulation sociale ; chap.4 Droit et Etat ; chap.7 Professionnels du droit et de la justice\)
+### ▸DELPEUCH, DUMOULIN, DE GALEMBERT, _Sociologie du droit et de la justice_, 2014 \(intro ; chap.1 Le droit dans la régulation sociale ; chap.6 les instits de justice ; chap.7 Professionnels du droit et de la justice\)
 
-#### intro
+#### intro : quelques jalons pour entrer dans la sociologie du droit et de la justice
 
 **positivisme juridique**: le droit comme un système clos, autoréférentiel et parfaitement autonome \(de la société, du politique\). Les précurseurs de cette réflexion sur le droit informé par les sc.sociales se retrouvent dans la conviction sur "_la nature éminemment sociale du droit_". Prise en considération des logiques sociales, histo, culturelles, pol et éco.
 
@@ -34,6 +34,18 @@ Des premiers questionnements métaphysiques sans fin, désormais l'analyse se fa
 
 1. la réception des perspectives wébériennes a ouvert à une compréhension du droit comme activité sociale. A la rigidité supposé du droit s'est substitué les interactions entre règle de droit et pratiques sociales. _Cause lawyering_
 2. _Legal cousciousness studies_: le caractère indéterminé du droit.
+
+#### chap.6 : Les tribunaux: de l'organisation aux politiques de justice \(_in_ "Les institutions de justice"\).
+
+Socio des organisation: la coordination des activités à travers des entités nommées organisation \(=structuration de moyens en vue de l'accomplissement d'un but\). Les tribunaux sont des organisations. Dire cela c'est substituer au portrait du juge "la peinture d'un plus vaste paysage où réapparaissent greffiers...". C'est aussi affirmer que l'activité juridictionnelle ne relève pas de la pure technique juridique : l'activité de mise en oeuvre des normes juridiques est conditionnées par les modes de gestion de ces orga particulières que sont les tribunaux.
+
+Les tribunaux, des bureaucraties professionnelles: reposent sur le pouvoir qui leur est donné en même temps qu'elles le renforcent \(médecins / hopital ; magistrats / tribunal\).
+
+Concernant la France, la justice est largement auto-administrée: les fonctions hiérarchiques en général occupées par des magistrats.
+
+#### Tribunaux et cultures organisationnelles locales
+
+La mise en oeuvre de réformes est hétérogène: le local contribue fortement à définir la portée des normes qui lui parviennent du niveau central, par des mécanismes d'appropriation.
 
 ### ▸BESNIER, _La vérité côté cour. Une ethnologue aux assises_, 2017
 
