@@ -177,13 +177,13 @@ Reclasser mnt nos matériaux sans plus tenir compte de l'ordre chronologique, ma
 
 Quelques conseils importants:
 
-1. Clarifier nos objectifs = quelle est la question, parmi toutes celles auxquelles nos matériaux répondent, la plus importante. L'écrire, puis expliciter notre objet en quelques paragraphes. Les matériaux classés sont des "questions secondaires". Comment ils représentent autant d'étapes pour mener à la question principale? Abuser de brouillons, flèches, schémas...
+1. Clarifier nos objectifs = quelle est la question, parmi toutes celles auxquelles nos matériaux répondent, la plus importante. L'écrire, puis expliciter notre objet en quelques paragraphes. Les rubriques, contenant nos matériaux classés, sont des "questions secondaires". Analyser comment elles représentent autant d'étapes pour mener à la question principale: abuser de brouillons, flèches, schémas qui donneront notre premier plan provisoire. Le plan définitif pourra être écrit une fois le manuscrit achevé. Ne pas hésitez à changer le titre de nos parties/sous-parties : exercice fort de conceptualisation/hypothèses.
 2. Accepter l'idée qu'entre 1/3 et la moitié de nos matériaux ne nous serviront à rien.
 
 #### Ecrire un compte rendu d'enquête
 
 **Une langue simple**  
-Le travail d'écriture ethnographique se distingue du travail littéraire, il ne cherche pas "l'effet de réel", mais la rigueur et la précision dans sa démonstration, réponse aux objections. Viser l'explicitation dans la concision. Prendre au sérieux le terme "compte rendu" : on rends des comptes. On ne doit pas séduire notre lecteur. Sans pour autant tomber dans l'étalage de références.
+Les textes limpides sont les plus travaillés. Le travail d'écriture ethnographique se distingue du travail littéraire, il ne cherche pas "l'effet de réel", mais la rigueur et la précision dans sa démonstration, réponse aux objections. Viser l'explicitation dans la concision. Prendre au sérieux le terme "compte rendu" : on rends des comptes. On ne doit pas séduire notre lecteur. Sans pour autant tomber dans l'étalage de références.
 
 **Rendre compte**  
 On doit donc produire un raisonnement à la hauteur de nos données: ni trop ni trop peu. Ne pas craindre de montrer les "trous" de nos documentation. Rédiger un CR d'enquête, c'est à la fois expliciter les détails et relier par un raisonnement ces mêmes détails. Nos données ne doivent pas servir simplement d'illustration à notre propos, on doit le construire à partir de l'interprétation des données.
@@ -199,7 +199,7 @@ On doit donc produire un raisonnement à la hauteur de nos données: ni trop ni 
 
 Le syndrome de l'énumération
 
-la tenation littéraire
+la tentation littéraire
 
 la complication inutile
 {% endtab %}
