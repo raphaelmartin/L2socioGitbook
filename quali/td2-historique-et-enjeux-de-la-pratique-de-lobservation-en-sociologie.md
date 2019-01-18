@@ -197,11 +197,19 @@ On doit donc produire un raisonnement à la hauteur de nos données: ni trop ni 
 
 #### Les principaux écueils
 
-Le syndrome de l'énumération
+1. Le syndrome de l'énumération
+2. la tentation littéraire
+3. la complication inutile
 
-la tentation littéraire
+#### De la preuve à l'expérimentation
 
-la complication inutile
+Nous ne sommes pas dans une logique de l'échantillon: ce que nous observons ne "vaut" que pour la population enquêtée. Catégorie des monographies. Toute ambition à la généralisation ne disparait pas pour autant : on ne généralise pas sur des "individus", des "populations" mais des des "processus" et des "relations". Logique cumulative: hypothèses ayant vocation à être contestées, ici et ailleurs.
+
+La présence de l'enquêteur agit comme _catalyseur_ des relations sociales préexistantes: sert de révélateur à des conflits, des classement locaux... Sa présence rend possible une véritable "expérimentation" où le cobaye n'est pas l'enquêté, comme on peut le croire, mais bien la relation qui se noue entre enquêteur et enquêté.
+{% endtab %}
+
+{% tab title="Conclusion" %}
+
 {% endtab %}
 {% endtabs %}
 
