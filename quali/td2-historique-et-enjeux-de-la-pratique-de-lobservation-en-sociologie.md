@@ -297,10 +297,32 @@ Faire accoucher le chercheur : soumettre ses observations à des pairs qualifié
 
 #### Vers des interprétations totalisantes
 
-1. Saisir les systèmes indigènes de classement
-2. Catégoriser les acteurs autrement
-3. Les jeux d'acteurs dans des interactions suivies
-4. Restaurer l'économie des rapports sociaux
+* Saisir les systèmes indigènes de classement
+
+Pour établir des liens entre les éléments particuliers : s'attacher aux système indigènes de classement des objets et des personnes en oeuvre de façon stabilisée et récurrente dans la situation. Ex: comment sont classés les objets selon le rapport de propriété ; comment les objets sont des statuts sociaux.
+
+Dans ces classements indigènes, se révèlent des systèmes de références, des logiques d'acteurs, des visions du monde.
+
+* Catégoriser les acteurs autrement
+
+L'observation directe n'est pas la seule manière de révéler ces systèmes \(docu ethno, témoignages...\) mais c'est la seule à aider à rechercher des systèmes pertinents hors de ceux que pratiquent les acteurs. Ces catégorisations peuvent s'appuyer sur: le repérage d'une homogénéité de comportement ; des différences constatées dans la façon qu'ont les acteurs de parler de la même réalité ; les types de relations que les acteurs entretiennent\)
+
+* Les jeux d'acteurs dans des interactions suivies
+
+Utile de mettre à l'épreuve ces catégories sur des scènes observées dans le détail. Validation de l'analyse selon le principe d'exhaustivité du matériau. Le compte rendu d'une scène constitue un tout dont on peut vérifier que le moindre détail trouve place dans l'analyse forgée après coup.
+
+Les scènes de tension servent de révélateurs des anticipations qu'ont les acteurs et de leur rapport à la situation comme espace susceptible d'accueillir la réalisation de ces projections.
+
+* Restaurer l'économie des rapports sociaux
+
+S'interroger sur la stabilité de la situation, les forces invisibles qui assurent l'équilibre : rechercher ce que les acteurs tirent de la situation autant que ce qu'ils mettent en jeu \(les étudiants employés de fast-food de CARTRON\). L'analyse: travail systématique de recherche d'articulation des compréhensions de détail en une formulation globale rendant compte de l'économie des relations sociales dans la situation, aucune ne devant rester sans signification.
+
+B. GLASER et A. STRAUSS se donne la "saturation" de l'interprétation pour indice de validité \(=quand de nouveaux éléments recueillis sur le terrain trouvent place dans l'interprétation sans la modifier, l'enrichir, ou la démentir\).
+
+Dans quel ordre conduire les étapes vers l'analyse? Dans une logique inductive en résistant aux globalisations de la situation. 2 attitudes à adopter:
+
+1. faire en amont ou pendant l'observation ce qui ne peut être fait après
+2. ne pas chercher à faire avant ce qui peut être fait après
 {% endtab %}
 
 {% tab title="6. Le compte-rendu" %}
