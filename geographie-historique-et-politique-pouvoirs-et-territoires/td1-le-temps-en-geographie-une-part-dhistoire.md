@@ -6,17 +6,19 @@ Lecture 1 : GRATALOUP Christian: "_Il faut désormais penser l’histoire à l
 
 URL: [http://www.lesechos.fr/enjeux/les-plus-denjeux/idees/0202854460859-christian-grataloup-il-faut-desormais-penser-l-histoire-a-l-echelle-de-l-humanite-dans-un-nous-global-582221.php](http://www.lesechos.fr/enjeux/les-plus-denjeux/idees/0202854460859-christian-grataloup-il-faut-desormais-penser-l-histoire-a-l-echelle-de-l-humanite-dans-un-nous-global-582221.php)
 
-géographie = "étude de l'espace des sociétés" \(J.Lévy\). La société, traversée par 2 dimensions fondamentales: le temps & l'espace. Le temps, étudié par l'histoire. L'espace, étudié par les géographes.
+**géographie** = "étude de l'espace des sociétés" \(J.Lévy\). La société, traversée par 2 dimensions fondamentales: le temps & l'espace. Le temps, étudié par l'histoire. L'espace, étudié par les géographes.
 
-Pblématique: quel est l'intérêt \(et les risques\) de prendre en compte le temps en géographie?
+**Pblématique**: quel est l'intérêt \(et les risques\) de prendre en compte le temps en géographie?
 
 ### La géographie et l'histoire, 2 disciplines associées en France.
 
-A l'école. La géographie, un décor pour l'histoire? E. Lavisse: nationalisation de l'histoire de France.
+A l'école. La géographie, un décor pour l'histoire? LAVISSE: nationalisation de l'histoire de France.
 
 ### Une fertilisation croisée est notable en histoire et géographie dans les travaux de recherche.
 
-La géographie historique: du passé en géographie. CLAVAL: "la géographie histo. étudie les différentes formes de peuplement et d'occupation de l'espace et leur évolution chronologique, ... son véritable but est ainsi de reconstituer les états anciens de cette occupation, de l'environnement, et de déterminer les facteurs de stabilité et de changement de cette organisation".
+La géographie historique: du passé en géographie.
+
+CLAVAL: "la géographie historique étudie les différentes formes de peuplement et d'occupation de l'espace et leur évolution chronologique, ... son véritable but est ainsi de reconstituer les états anciens de cette occupation, de l'environnement, et de déterminer les facteurs de stabilité et de changement de cette organisation".
 
 Xavier DE PLANHOL: géographie historique de la france \(Fayard\).
 
