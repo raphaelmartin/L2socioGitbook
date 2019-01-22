@@ -255,71 +255,71 @@ Les notes repères sont homogènes: se présentent sous la forme de listes. D'au
 {% tab title="4. Vers l\'analyse" %}
 ### L'observateur et son double
 
-Si l'obs directe se définit comme: une observation menée sans recours à des instruments interposés entre le chercheur et son objet ... forme d'observation qui recourt au chercheur comme instrument d'observation, à distinguer du chercheur analyseur, exploitant, interprétant les données qui ont été recueillies avec cet instrument. Ce dédoublement ne va pas de soi.
+Si l'obs directe se définit comme: une observation menée sans recours à des instruments interposés entre le chercheur et son objet ... forme d'observation qui recourt au chercheur comme instrument d'observation, à distinguer du chercheur analyseur, exploitant, interprétant les données qui ont été recueillies avec cet instrument. Ce **dédoublement** ne va pas de soi.
 
-Mais c'est sur les effets de sa présence qu'on compte implicitement pour prétendre décrypter la réalité observée. L'enquête par obs directe consiste, peu ou prou, en une transplantation du chercheur dans un univers qui s'écarte du sien, imposant un déplacement du regard dont on peut tirer connaissance à partir de la confrontation des système de référence: le sien et celui/ceux des enquêtés.
+Mais c'est sur les effets de sa présence qu'on compte implicitement pour prétendre décrypter la réalité observée. L'enquête par obs directe consiste, peu ou prou, en une transplantation du chercheur dans un univers qui s'écarte du sien, imposant un déplacement du regard dont on peut tirer connaissance à partir de la **confrontation des systèmes de références**: le sien et celui/ceux des enquêtés.
 
 Le maître mot de l'analyse sociologique: la **comparaison**. On la retrouve à 3 niveaux:
 
-* comparer nos données de terrain entre elles, en relisant nos notes pour les coder, pour assigner à chaque action/acteur décrits un/des attributs pour identifier ceux ayant qqch en commun ou les opposant
-* comparer les données du terrain avec celles d'autres terrains
-* comparer enfin et surtout, les systèmes de références des acteurs observés et du chercheur tels qu'ils se manifestent dans la situation.
+* comparer nos **données de terrain entre elles**, en relisant nos notes pour les coder, pour assigner à chaque action/acteur décrits un/des attributs pour identifier ceux ayant qqch en commun ou les opposant
+* comparer les données du terrain **avec celles d'autres terrains**
+* comparer enfin et surtout, les **systèmes de références des acteurs observés et du chercheur** tels qu'ils se manifestent dans la situation.
 
-L'expérience que vit le chercheur du décalage entre son système de références / celui des enquêtés peut être révélatrice, à condition d'être analysée. Comparatisme particulier: analyser son système propre dans sa tension avec celui qu'il s'est vu obligé d'adopter.
+L'expérience que vit le chercheur du décalage entre son système de références / celui des enquêtés peut être révélatrice, à condition d'être analysée. **Comparatisme particulier**: analyser son système propre dans sa tension avec celui qu'il s'est vu obligé d'adopter.
 
 ### Cultiver les facultés d'observation
 
 #### De l'étonnement au décentrement
 
-Une façon de maintenir sa capacité d'étonnement en éveil est de se remettre à l'esprit ce qu'on s'attendait à observer avant l'entrée sur le terrain. Cet "inventaire avant enquête" fournit une objectivation de nos propres préjugés.
+Une façon de maintenir sa capacité d'étonnement en éveil est de se remettre à l'esprit ce qu'on s'attendait à observer avant l'entrée sur le terrain. Cet "inventaire avant enquête" fournit une **objectivation** de nos propres **préjugés**.
 
-Faire de l'étonnement une ressource prévient contre "l'identification" \(n'être attiré que par ce qui peut conforter ses hypothèses décidées à l'avance\). Mais il faut être prudent de son étonnement comme signe de différences dans les systèmes de références. Il n'est pas exclu qu'il renvoie parfois à une simple méconnaissance de son propre monde.
+Faire de l'**étonnement une ressource** prévient contre "**l'identification**" \(n'être attiré que par ce qui peut conforter ses hypothèses décidées à l'avance\). Mais il faut être prudent de son étonnement comme signe de différences dans les systèmes de références. Il n'est pas exclu qu'il renvoie parfois à une simple méconnaissance de son propre monde.
 
 #### De l'envie de tout comprendre à la faculté de trier
 
-La frustration, face à une situation étrange, stimule le goût de l'explication. Processus inconscient d'invention interprétative: le besoin de trier. La consigne d'observer est large: il faut s'interroger sur les tris qu'on n'opère pas toujours en conscience. Tout noter, car ce qui nous semble trivial, inabordable représenteront des détails cruciaux une fois compris.
+La frustration, face à une situation étrange, stimule le goût de l'explication. Processus inconscient d'**invention interprétative**: le besoin de trier. La consigne d'observer est large: il faut **s'interroger sur les tris** qu'on n'opère pas toujours en conscience. Tout noter, car ce qui nous semble trivial, inabordable pourront représenter des détails cruciaux une fois compris.
 
 Le temps de l'écriture après observation permet de fixer la mémoire, de nous familiariser tout en mettant en recul \(réflexivité\) : l'écriture révèle tel point de la situation jusque là passé sous silence.
 
 #### Une cohérence par fragments
 
-Il faut systématiser les données d'observation pour classer chaque action avec ses variante, chaque événement comme combinaisons d'actions qu'on décompose.
+Il faut **systématiser les données d'observation** pour classer chaque action avec ses variantes, chaque événement comme combinaisons d'actions qu'on décompose.
 
-Selon quel axe établir ses regroupements? WHYTE évoque 2 pistes: les actions ; les acteurs.
+Selon quel **axe** établir ses regroupements? _WHYTE_ évoque **2 pistes**: les actions ; les acteurs.
 
-De ces exercices de systématisation/classement ressortent des fragments de compréhension, La validation de cette "cohérence par parties" de ces intuitions, sont d'abord de l'ordre de la non-invalidation. On cherche les contradictions par confrontation avec nos premières interprétations partielles ou via des données descriptives de nouvelles observations.
+De ces exercices de systématisation/classement ressortent des **fragments de compréhension**, La validation de cette "cohérence par parties", de ces intuitions, sont d'abord de l'ordre de la **non-invalidation**. On cherche les contradictions par confrontation avec nos premières interprétations partielles ou via des données descriptives de nouvelles observations.
 
 #### Des différences dans les systèmes de références
 
- Après l'observation, il faut rompre avec les systèmes de références des enquêtés. Le meilleur moyen est de se faire spectateur des confrontations entre systèmes de ref. dont la configuration d'observation est l'occasion.
+Après l'observation, il faut **rompre** avec les systèmes de références des enquêtés. Le meilleur moyen est de se faire **spectateur des confrontations entre systèmes de ref.** dont la configuration d'observation est l'occasion.
 
-Faire accoucher le chercheur : soumettre ses observations à des pairs qualifiés ou lire des travaux du même type sur des sujets voisins. Mettre à l'épreuve nos catégorisations par la comparaison.
+Faire accoucher le chercheur **⟹** soumettre ses observations à des pairs qualifiés ou lire des travaux du même type sur des sujets voisins. Mettre à l'épreuve nos catégorisations par la comparaison.
 
 #### Vers des interprétations totalisantes
 
-* Saisir les systèmes indigènes de classement
+* **Saisir les systèmes indigènes de classement**
 
-Pour établir des liens entre les éléments particuliers : s'attacher aux système indigènes de classement des objets et des personnes en oeuvre de façon stabilisée et récurrente dans la situation. Ex: comment sont classés les objets selon le rapport de propriété ; comment les objets sont des statuts sociaux.
+Pour **établir des liens** entre les éléments particuliers : s'attacher aux **système indigènes de classement** des objets et des personnes en oeuvre de façon stabilisée et récurrente dans la situation. Ex: comment sont classés les objets selon le rapport de propriété ; comment les objets sont des statuts sociaux.
 
 Dans ces classements indigènes, se révèlent des systèmes de références, des logiques d'acteurs, des visions du monde.
 
-* Catégoriser les acteurs autrement
+* **Catégoriser les acteurs autrement**
 
-L'observation directe n'est pas la seule manière de révéler ces systèmes \(docu ethno, témoignages...\) mais c'est la seule à aider à rechercher des systèmes pertinents hors de ceux que pratiquent les acteurs. Ces catégorisations peuvent s'appuyer sur: le repérage d'une homogénéité de comportement ; des différences constatées dans la façon qu'ont les acteurs de parler de la même réalité ; les types de relations que les acteurs entretiennent\)
+L'observation directe n'est pas la seule manière de révéler ces systèmes \(docu ethno, témoignages...\) mais c'est la seule à aider à rechercher des systèmes pertinents **hors de ceux que pratiquent les acteurs**. Ces catégorisations peuvent s'appuyer sur: le repérage d'une homogénéité de **comportement** ; des **différences** constatées dans la façon qu'ont les acteurs de parler de la même réalité ; les **types de relations** que les acteurs entretiennent\)
 
-* Les jeux d'acteurs dans des interactions suivies
+* **Les jeux d'acteurs dans des interactions suivies**
 
-Utile de mettre à l'épreuve ces catégories sur des scènes observées dans le détail. Validation de l'analyse selon le principe d'exhaustivité du matériau. Le compte rendu d'une scène constitue un tout dont on peut vérifier que le moindre détail trouve place dans l'analyse forgée après coup.
+Utile de mettre à l'épreuve ces catégories sur des scènes observées dans le détail. Validation de l'analyse selon le **principe d'exhaustivité du matériau**. Le compte rendu d'une scène constitue un tout dont on peut vérifier que le moindre détail trouve place dans **l'analyse** forgée après coup.
 
-Les scènes de tension servent de révélateurs des anticipations qu'ont les acteurs et de leur rapport à la situation comme espace susceptible d'accueillir la réalisation de ces projections.
+Les **scènes de tension** servent de révélateurs des anticipations qu'ont les acteurs et de leur rapport à la situation comme espace susceptible d'accueillir la réalisation de ces projections.
 
-* Restaurer l'économie des rapports sociaux
+* **Restaurer l'économie des rapports sociaux**
 
-S'interroger sur la stabilité de la situation, les forces invisibles qui assurent l'équilibre : rechercher ce que les acteurs tirent de la situation autant que ce qu'ils mettent en jeu \(les étudiants employés de fast-food de CARTRON\). L'analyse: travail systématique de recherche d'articulation des compréhensions de détail en une formulation globale rendant compte de l'économie des relations sociales dans la situation, aucune ne devant rester sans signification.
+S'interroger sur la stabilité de la situation, les forces invisibles qui assurent l'équilibre : **rechercher ce que les acteurs tirent de la situation autant que ce qu'ils mettent en jeu** \(les étudiants employés de fast-food de _CARTRON_\). **L'analyse**: travail systématique de recherche d'articulation des compréhensions de détail en une formulation globale rendant compte de l'économie des relations sociales dans la situation, aucune ne devant rester sans signification.
 
-B. GLASER et A. STRAUSS se donne la "saturation" de l'interprétation pour indice de validité \(=quand de nouveaux éléments recueillis sur le terrain trouvent place dans l'interprétation sans la modifier, l'enrichir, ou la démentir\).
+B. _GLASER_ et A. _STRAUSS_ se donne la "**saturation**" de l'interprétation pour indice de validité \(=quand de nouveaux éléments recueillis sur le terrain trouvent place dans l'interprétation sans la modifier, l'enrichir, ou la démentir\).
 
-Dans quel ordre conduire les étapes vers l'analyse? Dans une logique inductive en résistant aux globalisations de la situation. 2 attitudes à adopter:
+Dans quel **ordre** conduire les étapes vers l'analyse? Dans une **logique inductive** en résistant aux globalisations de la situation. **2 attitudes** à adopter:
 
 1. faire en amont ou pendant l'observation ce qui ne peut être fait après
 2. ne pas chercher à faire avant ce qui peut être fait après
