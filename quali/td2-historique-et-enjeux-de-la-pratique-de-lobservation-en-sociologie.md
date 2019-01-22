@@ -159,7 +159,7 @@ Dorénavant en possession d'un **puzzle** avec des morceaux plus ou moins gros. 
 
 #### Vers une problématique
 
-séries d'obs + contextualisation par l'enquête \(son déroulement, l'évolution des relations d'enquête\). Comparer les matériaux d'enquête, puis **tenter de dégager à partir de leur reclassement**, une problématique.
+séries d'observations + contextualisation par l'enquête \(son déroulement, l'évolution des relations d'enquête\). Comparer les matériaux d'enquête, puis **tenter de dégager à partir de leur reclassement**, une problématique.
 
 **Comparer les matériaux entre eux. Un contrôle croisé**  
 Confronter les matériaux entre eux malgré leur hétérogénéité. A plusieurs niveaux:
@@ -170,14 +170,14 @@ Confronter les matériaux entre eux malgré leur hétérogénéité. A plusieurs
 **Dégager une problématique**  
 Reclasser mnt nos matériaux sans plus tenir compte de l'ordre chronologique, mais **en les organisant selon un ordre logique**. 2 étapes:
 
-1. Changer les titres de nos chemises. Par exemple, il faut passer de: "Une fête à l'école maternelle" -&gt; "Relations familles/écoles". Passer des cas singuliers aux **questions conceptuelles** auxquelles ces cas répondent. Réduire le cas à l'ensemble de ses caractéristiques objectives, en sélectionner une pour orienter la lecture du matériau.
+1. Exercice de "surtitrage": changer les titres de nos chemises. Par exemple, il faut passer de: "Une fête à l'école maternelle" -&gt; "Relations familles/écoles". Passer des cas singuliers aux **questions conceptuelles** auxquelles ces cas "répondent" partiellement. Réduire le cas à l'ensemble de ses caractéristiques objectives, en sélectionner une pour orienter la lecture du matériau. Laisser de côté les matériaux qu'on arrive pas à "surtitrer".
 2. Manipuler ces chemises pour **comprendre les liens logiques** entre les questions dégagées \(l'une est incluse dans l'autre, complément, contraste, convergences...\)
 
-> Nos cas singuliers, événements observés, ne sont pas des exemples illustratifs de théories qui leur préexistent, mais des points d'appui pour faire avancer des hypothèses à tester, approfondir, abandonner.
+> Nos cas singuliers, événements observés, ne sont pas des exemples illustratifs de théories qui leur préexistent, mais des points d'appui pour faire avancer des hypothèses à tester, approfondir, ou abandonner.
 
 Quelques **conseils** importants:
 
-1. **Clarifier nos objectifs** ⟹ quelle est la question, parmi toutes celles auxquelles nos matériaux répondent, la plus importante. L'écrire, puis expliciter notre objet en quelques paragraphes. Les rubriques, contenant nos matériaux classés, sont des "**questions secondaires**". Analyser comment elles représentent autant d'étapes pour mener à la **question principale**: abuser de brouillons, flèches, schémas qui donneront notre **premier plan provisoire**. Le plan définitif pourra être écrit une fois le manuscrit achevé. Ne pas hésitez à changer le titre de nos parties/sous-parties : exercice fort de conceptualisation/hypothèses.
+1. **Clarifier nos objectifs** ⟹ quelle est **la** question, parmi toutes celles auxquelles nos matériaux répondent, la plus importante. L'écrire, puis expliciter notre objet en quelques paragraphes. Les rubriques, contenant nos matériaux classés, sont des "**questions secondaires**". Analyser comment elles représentent autant d'étapes pour mener à la **question principale**: abuser de brouillons, flèches, schémas qui donneront notre **premier plan provisoire**. Le plan définitif pourra être écrit une fois le manuscrit achevé. Ne pas hésitez à changer le titre de nos parties/sous-parties : exercice fort de conceptualisation/hypothèses.
 2. Accepter l'idée qu'entre 1/3 et la moitié de nos matériaux ne nous **serviront à rien**.
 
 #### Ecrire un compte rendu d'enquête
