@@ -479,9 +479,5 @@ Le concept comme outil de problématisation
 
 Au sens large, expliquer un phénomène consiste à établir un lien entre ce phénomène et autre chose qui est censé intervenir dans le fait qu'il soit advenu. 
 {% endtab %}
-
-{% tab title="Second Tab" %}
-
-{% endtab %}
 {% endtabs %}
 
