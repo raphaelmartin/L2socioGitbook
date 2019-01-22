@@ -109,49 +109,49 @@ Condensés de relations qui offrent ensemble les 3 niveaux d'observables: un év
 {% tab title="Analyser et publier les données ethno" %}
 ### Travailler les entretiens/journal de terrain
 
-Produire des matériaux écrits: utiliser le JDT \(journal de terrain\) de 2 manières:
+Produire des matériaux écrits: utiliser le JDT \(journal de terrain\) de **2 manières**:
 
-1. Restituer la chronologie de l'enquête et remettre chaque document dans son contexte
-2. Isoler des récits d'observation significatifs
+1. **Restituer la chronologie de l'enquête** et remettre chaque document dans son contexte
+2. Isoler des récits d'observation **significatifs**
 
-Faire un choix parmi ses entretiens/obs: ne pas avoir peur de hiérarchiser nos données, de se concentrer sur l'essentiel. Relire le JDT et repérer les evnmts les plus marquants en les comparant : on obtiendra des séries d'interactions/cérémonies répétées =&gt; mettre en relation des évènements qu'on n'a pas forcément vécus comme semblables.
+Faire un choix parmi ses entretiens/obs: ne pas avoir peur de **hiérarchiser** nos données, de se concentrer sur l'essentiel. Relire le JDT et repérer les evnmts **les plus marquants** en les comparant : on obtiendra des séries d'interactions/cérémonies répétées ⟹ mettre en relation des évènements qu'on n'a pas forcément vécus comme semblables.
 
-Le meilleur antidote au rêve d'exhaustivité: se poser sans cesse la question "Pour quoi faire?" Cette obs mérite-t-elle d'occuper une place centrale dans l'analyse? Pourquoi celle-ci, et pas une autre?
+Le meilleur antidote au rêve d'exhaustivité: se poser sans cesse la question **"Pour quoi faire?"** Cette obs mérite-t-elle d'occuper une place centrale dans l'analyse? Pourquoi celle-ci, et pas une autre?
 
-Mettre au propre le journal de terrain
+#### Mettre au propre le journal de terrain
 
-En tirer 2 séries de notation:
+En tirer **2 séries de notation**:
 
-1. Restituer le déroulement de l'enquête en retrouvant la chronologie des evntms. Etablir sous forme résumée cette chronologie en restituant les liens entre les moments
-2. Réanalyser à froid notre 1ère transcription des évnmts en explicitant ce qui nous semblait alors "aller de soi" par rapport à l'évnmt.
+1. **Restituer le déroulement de l'enquête** en retrouvant la chronologie des evntms. Etablir sous forme résumée cette chronologie en restituant les liens entre les moments
+2. **Réanalyser à froid notre 1ère transcription** des évnmts en explicitant ce qui nous semblait alors "aller de soi" par rapport à l'évnmt.
 
-On doit chercher à rendre au compte au maximum de tout ce qui s'est passé, aux détails significatifs, à comprendre comment on en est arrivé là, à restituer un processus.
+On doit chercher à rendre compte au maximum de tout ce qui s'est passé, aux **détails significatifs**, à comprendre comment on en est arrivé là, à **restituer un processus**.
 
 **Contextualiser**
 
-La contextualisation des données ethno est le principal garde-fou contre toutes les généralisations hâtives ou indues.
+La contextualisation des données ethno est le principal **garde-fou** contre toutes les généralisations hâtives ou indues.
 
-La nécessité de la contextualisation: les premiers moments de l'entrée sur le terrain, décrire et analyser les relations d'enquête.
+La nécessité de la contextualisation: les premiers moments de l'entrée sur le terrain, décrire et analyser les **relations d'enquête**.
 
-Analyser le déroulement de l'enquête : relire le journal de terrain. On peut distinguer 3 contextes utiles pour l'analyse des données ethno:
+Analyser le déroulement de l'enquête : relire le journal de terrain. On peut distinguer **3 contextes utiles pour l'analyse des données** ethno:
 
-1. Le contexte immédiat, en situation. Cadre matériel, déroulement, à l'échelle de la journée. Niveau de l'interaction dans laquelle on a été pris.
-2. Le contexte de l'enquête toute entière. Réputation d'où on a notre place, quel statut on nous a assigné.
-3. Le contexte social dans lequel est pris chacun de nos enquêtés. Il s'agit de restituer les univers de référence de vos interlocuteurs : il faut travailler ici à l'échelle individuelle. Nos enquêtés ont une connaissance subjective d'éléments objectifs, notre tâche est de mettre ces 2 aspects en relation.
+1. **Le contexte immédiat, en situation**. Cadre matériel, déroulement, à l'échelle de la journée. Niveau de l'interaction dans laquelle on a été pris.
+2. **Le contexte de l'enquête toute entière**. Réputation d'où on a notre place, quel statut on nous a assigné.
+3. **Le contexte social dans lequel est pris chacun de nos enquêtés**. Il s'agit de restituer les univers de référence de vos interlocuteurs : il faut travailler ici à l'échelle individuelle. Nos enquêtés ont une connaissance subjective d'éléments objectifs, notre tâche est de mettre ces 2 aspects en relation.
 
 A la fin, on a nos matériaux triés:
 
 * plusieurs chemises d'obs classées par séries ; chaque moment observé est autonomisé et nommé \("un conflit de personnes au travail" ; "la fête de l'école maternelle".
 * des docs rassemblés \(coupures de journaux, statistiques, photos\), datés et référencés
 * Fiche récap qui résume la chrono de l'enquête
-* A la fin du journal de recherche, rédiger la "problématique", ce qu'on cherche à démontrer, la série des principales hypothèses qu'on a progressivement dégagées.
-* A la fin du journal d'enquête, restituez la série des places que vous avez occupées et le processus nous passant de l'une à l'autre
+* A la fin du journal de recherche, **rédiger la "problématique"**, ce qu'on cherche à démontrer, la série des principales hypothèses qu'on a progressivement dégagées.
+* A la fin du journal d'enquête, **restituez la série des places que vous avez occupées** et le processus nous passant de l'une à l'autre
 
 ### Interpréter et rédiger
 
-Dorénavant en possession d'un puzzle avec des morceaux plus ou moins gros. On va les assembler. Ne pas chercher à théoriser/généraliser à tout prix. C'est un "compte rendu d'enquête", le terrain ne doit pas disparaître sous les concepts mais, "les concepts doivent éclairer le terrain et rendre justice aux cas singuliers".
+Dorénavant en possession d'un **puzzle** avec des morceaux plus ou moins gros. On va les **assembler**. Ne pas chercher à théoriser/généraliser à tout prix. C'est un "compte rendu d'enquête", le terrain ne doit pas disparaître sous les concepts mais, "_les concepts doivent éclairer le terrain et rendre justice aux cas singuliers_".
 
-3 éléments à retenir avant de faire des comparaisons systématiques, la mise en relation entre:
+**3 éléments** à retenir avant de faire des comparaisons systématiques, la **mise en relation** entre:
 
 1. positions objectives/pratiques/points de vue subjectifs
 2. mots indigènes/silences
@@ -159,40 +159,40 @@ Dorénavant en possession d'un puzzle avec des morceaux plus ou moins gros. On v
 
 #### Vers une problématique
 
-séries d'obs + contextualisation par l'enquête \(son déroulement, l'évolution des relations d'enquête\). Comparer les matériaux d'enquête, puis tenter de dégager à partir de leur reclassement, une problématique.
+séries d'obs + contextualisation par l'enquête \(son déroulement, l'évolution des relations d'enquête\). Comparer les matériaux d'enquête, puis **tenter de dégager à partir de leur reclassement**, une problématique.
 
 **Comparer les matériaux entre eux. Un contrôle croisé**  
 Confronter les matériaux entre eux malgré leur hétérogénéité. A plusieurs niveaux:
 
-* au niveau de l'enquête elle-même, par un recoupement des infos
-* au niveau de l'interprétation générale, comparez nos données avec d'autres, trouvées dans des textes publiés sur notre sujet.
+* au **niveau de l'enquête** elle-même, par un recoupement des infos
+* au **niveau de l'interprétation générale**, comparez nos données avec d'autres, trouvées dans des textes publiés sur notre sujet.
 
 **Dégager une problématique**  
-Reclasser mnt nos matériaux sans plus tenir compte de l'ordre chronologique, mais en les organisant selon un ordre logique. 2 étapes:
+Reclasser mnt nos matériaux sans plus tenir compte de l'ordre chronologique, mais **en les organisant selon un ordre logique**. 2 étapes:
 
-1. Changer les titres de nos chemises. Par exemple, il faut passer de: "Une fête à l'école maternelle" -&gt; "Relations familles/écoles". Passer des cas singuliers aux questions conceptuelles auxquelles ces cas répondent. Réduire le cas à l'ensemble de ses caractéristiques objectives, en sélectionner une pour orienter la lecture du matériau.
-2. Manipuler ces chemises pour comprendre les liens logiques entre les questions dégagées \(l'une est incluse dans l'autre, complément, contraste, convergences...\)
+1. Changer les titres de nos chemises. Par exemple, il faut passer de: "Une fête à l'école maternelle" -&gt; "Relations familles/écoles". Passer des cas singuliers aux **questions conceptuelles** auxquelles ces cas répondent. Réduire le cas à l'ensemble de ses caractéristiques objectives, en sélectionner une pour orienter la lecture du matériau.
+2. Manipuler ces chemises pour **comprendre les liens logiques** entre les questions dégagées \(l'une est incluse dans l'autre, complément, contraste, convergences...\)
 
 > Nos cas singuliers, événements observés, ne sont pas des exemples illustratifs de théories qui leur préexistent, mais des points d'appui pour faire avancer des hypothèses à tester, approfondir, abandonner.
 
-Quelques conseils importants:
+Quelques **conseils** importants:
 
-1. Clarifier nos objectifs = quelle est la question, parmi toutes celles auxquelles nos matériaux répondent, la plus importante. L'écrire, puis expliciter notre objet en quelques paragraphes. Les rubriques, contenant nos matériaux classés, sont des "questions secondaires". Analyser comment elles représentent autant d'étapes pour mener à la question principale: abuser de brouillons, flèches, schémas qui donneront notre premier plan provisoire. Le plan définitif pourra être écrit une fois le manuscrit achevé. Ne pas hésitez à changer le titre de nos parties/sous-parties : exercice fort de conceptualisation/hypothèses.
-2. Accepter l'idée qu'entre 1/3 et la moitié de nos matériaux ne nous serviront à rien.
+1. **Clarifier nos objectifs** ⟹ quelle est la question, parmi toutes celles auxquelles nos matériaux répondent, la plus importante. L'écrire, puis expliciter notre objet en quelques paragraphes. Les rubriques, contenant nos matériaux classés, sont des "**questions secondaires**". Analyser comment elles représentent autant d'étapes pour mener à la **question principale**: abuser de brouillons, flèches, schémas qui donneront notre **premier plan provisoire**. Le plan définitif pourra être écrit une fois le manuscrit achevé. Ne pas hésitez à changer le titre de nos parties/sous-parties : exercice fort de conceptualisation/hypothèses.
+2. Accepter l'idée qu'entre 1/3 et la moitié de nos matériaux ne nous **serviront à rien**.
 
 #### Ecrire un compte rendu d'enquête
 
 **Une langue simple**  
-Les textes limpides sont les plus travaillés. Le travail d'écriture ethnographique se distingue du travail littéraire, il ne cherche pas "l'effet de réel", mais la rigueur et la précision dans sa démonstration, réponse aux objections. Viser l'explicitation dans la concision. Prendre au sérieux le terme "compte rendu" : on rends des comptes. On ne doit pas séduire notre lecteur. Sans pour autant tomber dans l'étalage de références.
+Les textes limpides sont les plus travaillés. Le travail d'écriture ethnographique se **distingue du travail littéraire**, il ne cherche pas "l'effet de réel", mais la rigueur et la précision dans sa démonstration, réponse aux objections. Viser l'explicitation dans la concision. Prendre au sérieux le terme "compte rendu" : on rends des comptes. On ne doit pas séduire notre lecteur. Sans pour autant tomber dans l'étalage de références.
 
 **Rendre compte**  
-On doit donc produire un raisonnement à la hauteur de nos données: ni trop ni trop peu. Ne pas craindre de montrer les "trous" de nos documentation. Rédiger un CR d'enquête, c'est à la fois expliciter les détails et relier par un raisonnement ces mêmes détails. Nos données ne doivent pas servir simplement d'illustration à notre propos, on doit le construire à partir de l'interprétation des données.
+On doit donc produire un **raisonnement à la hauteur de nos données**: ni trop ni trop peu. Ne pas craindre de montrer les "trous" de nos documentation. Rédiger un CR d'enquête, c'est à la fois expliciter les détails et relier par un raisonnement ces mêmes détails. Nos données ne doivent pas servir simplement d'illustration à notre propos, on doit le construire à partir de l'interprétation des données.
 
 **Quelques règles:**
 
-1. poser un problème en introduction \(la rédiger à la fin\)
-2. faire notre démonstration point par point
-3. sous chaque point, s'appuyer sur un "cas" parmi nos matériaux
+1. poser un **problème** en introduction \(la rédiger à la fin\)
+2. faire notre **démonstration** point par point
+3. sous chaque point, s'appuyer sur un "**cas**" parmi nos matériaux
 4. exhiber ce cas en annexe/en parallèle, càd: l'autonomiser / le recontextualiser
 
 #### Les principaux écueils
@@ -203,9 +203,9 @@ On doit donc produire un raisonnement à la hauteur de nos données: ni trop ni 
 
 #### De la preuve à l'expérimentation
 
-Nous ne sommes pas dans une logique de l'échantillon: ce que nous observons ne "vaut" que pour la population enquêtée. Catégorie des monographies. Toute ambition à la généralisation ne disparait pas pour autant : on ne généralise pas sur des "individus", des "populations" mais des des "processus" et des "relations". Logique cumulative: hypothèses ayant vocation à être contestées, ici et ailleurs.
+Nous ne sommes pas dans une logique de l'échantillon: ce que nous observons ne "vaut" que pour la population enquêtée. Catégorie des monographies. Toute **ambition à la généralisation** ne disparait pas pour autant : on ne généralise pas sur des "individus", des "populations" mais des des "**processus**" et des "**relations**". Logique cumulative: hypothèses ayant vocation à être contestées, ici et ailleurs.
 
-La présence de l'enquêteur agit comme _catalyseur_ des relations sociales préexistantes: sert de révélateur à des conflits, des classement locaux... Sa présence rend possible une véritable "expérimentation" où le cobaye n'est pas l'enquêté, comme on peut le croire, mais bien la relation qui se noue entre enquêteur et enquêté.
+La présence de l'enquêteur agit comme _catalyseur_ des relations sociales préexistantes: sert de **révélateur** à des conflits, des classement locaux... Sa présence rend possible une véritable "expérimentation" où le cobaye n'est pas l'enquêté, comme on peut le croire, mais bien la relation qui se noue entre enquêteur et enquêté.
 {% endtab %}
 
 {% tab title="Conclusion" %}
