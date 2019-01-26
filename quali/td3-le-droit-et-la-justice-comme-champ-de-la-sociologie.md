@@ -155,6 +155,16 @@ La C.I inscrit dans l'évolution européenne d'un tournant à l'anglo-saxonnes p
 
 #### La comparution immédiate au sein du système judiciaire français
 
+La comparution immédiate censée être une procédure d'exception, se transforme en instrument banal de gestion des flux. La politique pénale donne des instructions assez strictes sur les prises de décision pour certaines infractions. Dans un contexte d'urgence, les décisions des parquetiers sont donc largement standardisées.
+
+Un ordre négocié entre parquetiers et policiers
+
+Les policiers ont comme ressource la connaissance du terrain, les seuls à connaitre l'affaire lorsqu'ils appellent la permanence pénale. Ils peuvent se servir de cette exclusivité pour orienter la décision du parquetier dans la direction qui leur convient.
+
+#### Les avocats et leurs "clients"
+
+Objectif des avocats: interpréter le dossier qu'ils ont sous les yeux, à partir de leur rencontre avec le prévenu.
+
 #### médias, web
 
 **Articles médiatiques** en rapport avec le mouvement des gilets jaunes, notamment sa dimension judiciaire et les commentaires \("justice de classe", la Terreur...\)
