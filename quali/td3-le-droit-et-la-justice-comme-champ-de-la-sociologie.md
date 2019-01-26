@@ -4,7 +4,7 @@
 
 ### ▸DELPEUCH, DUMOULIN, DE GALEMBERT, _Sociologie du droit et de la justice_, 2014 \(intro ; chap.1 Le droit dans la régulation sociale ; chap.6 les instits de justice ; chap.7 Professionnels du droit et de la justice\)
 
-#### intro : quelques jalons pour entrer dans la sociologie du droit et de la justice
+### Intro : quelques jalons pour entrer dans la sociologie du droit et de la justice
 
 **positivisme juridique**: le droit comme un système clos, autoréférentiel et parfaitement autonome \(de la société, du politique\). Les précurseurs de cette réflexion sur le droit informé par les sc.sociales se retrouvent dans la conviction sur "_la nature éminemment sociale du droit_". Prise en considération des logiques sociales, histo, culturelles, pol et éco.
 
@@ -35,7 +35,33 @@ Des premiers questionnements métaphysiques sans fin, désormais l'analyse se fa
 1. la réception des perspectives wébériennes a ouvert à une compréhension du droit comme activité sociale. A la rigidité supposé du droit s'est substitué les interactions entre règle de droit et pratiques sociales. _Cause lawyering_
 2. _Legal cousciousness studies_: le caractère indéterminé du droit.
 
-#### chap.6 : Les tribunaux: de l'organisation aux politiques de justice \(_in_ "Les institutions de justice"\).
+### Chap.1: Le droit dans la régulation sociale
+
+Concept de **norme** en sociologie. Le droit en constitue une catégorie **particulière**. Mais garder à l'esprit que le droit n'occupe qu'une place relative dans la régulation sociale, même si phénomène de "**juridicisation**"
+
+Au sein d'une société/groupe social, uniformité relative des **comportements** et régularité des conduites comme conséquence de présence de normes sociales.
+
+**Norme**: « des manières de faire, d'être ou de penser socialement définies et sanctionnées » \(BOUDON/BOURRICAUD\). Les normes indiquent comment telle catégorie de personnes est supposée se comporter dans tel type de circonstance. L'individu se conforme à cette **attente**, sinon elle court le risque d'une **sanction**. Les normes sont donc des **contraintes** qui cadrent l'individu. Simultanément, des **ressources**, capacités d'action pour lui/elle.
+
+> « Chaque fois que l'auteur d'un acte s'efforce d'en justifier le sens et d'en faire reconnaître le caractère tout à la fois normal, valide, approprié et légitime pour répondre à un problème posé, il peut être considéré comme posant une norme susceptible d'être acceptée ou contestée par autrui » — PHARO, 1991.
+
+* Dimension **prescriptive**
+* Dimension **évaluative** \(=des normes provient du fait qu'elles sont articulées à des valeurs\)
+* Dimension **descriptive** \(=elles véhiculent une connaissance commune des situations qui permet de désigner et de classer les objets sociaux, de réduire les incertitudes, d'anticiper les comportements d'autrui. Les normes constituent des repères non seulement cognitifs, mais aussi moraux dans la vie quotidienne. Les acteurs s'y réfèrent pour appréhender, catégoriser, qualifier, interpréter et évaluer les situations sociales auxquelles ils se trouvent confrontés\).
+
+En clair, ne pas présupposer de différence de nature entre règles juridiques / "toutes les autres normes sociales" et ne pas croire que le droit occupe une place prééminente dans la structure normative des sociétés.
+
+#### Le social saisi par le droit: juridicisation \(JRDICI\) et judiciarisation \(JDICI\)
+
+**Juridicisation**: processus par lequel des normes sociales partagées par un groupe sont transposées dans des règles et dispositifs juridiques explicites ; définie comme l'instauration de règles juridiques pour réguler cette relation/activité ; accroissement de la proportion de règles juridiques dans la régulation d'une activité sociale, augmentation de leur force contraignante ⟹ diminution de la marge d'autonomie laissée aux acteurs pour adopter d'autres conduites que celles prescrites par le droit.
+
+La **juridicisation** renvoie à la prolifération du droit, la **judiciarisation** évoque la montée en puissance des juges et des tribunaux, une expression de ce phénomène général.
+
+### Chap.4: Droit et Etat
+
+
+
+### Chap.6: Les tribunaux: de l'organisation aux politiques de justice \(_in_ "Les institutions de justice"\).
 
 Socio des organisation: la coordination des activités à travers des entités nommées organisation \(=structuration de moyens en vue de l'accomplissement d'un but\). Les tribunaux sont des organisations. Dire cela c'est substituer au portrait du juge "la peinture d'un plus vaste paysage où réapparaissent greffiers...". C'est aussi affirmer que l'activité juridictionnelle ne relève pas de la pure technique juridique : l'activité de mise en oeuvre des normes juridiques est conditionnées par les modes de gestion de ces orga particulières que sont les tribunaux.
 
