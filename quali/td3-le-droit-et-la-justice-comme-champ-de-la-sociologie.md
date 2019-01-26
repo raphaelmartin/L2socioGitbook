@@ -59,19 +59,37 @@ La **juridicisation** renvoie à la prolifération du droit, la **judiciarisatio
 
 ### Chap.4: Droit et Etat
 
+Le droit dans les sociétés, le droit dans leur fonctionnement politique. L'Etat, impensable sans le droit qui le constitue et le structure en partie. Nouvel ordre de domination politique qualifié de "légal-rationnel" par WEBER. Proximité forte entre droit/politique qui interroge.
 
+### Chap.6: Les institutions de justice
 
-### Chap.6: Les tribunaux: de l'organisation aux politiques de justice \(_in_ "Les institutions de justice"\).
+Le fonctionnement des cours et des tribunaux comme systèmes d'action organisée. Les agencement instit, modes d'organisation, politiques de justice conditionnement le contenu des activités et décisions judiciaires. 
 
-Socio des organisation: la coordination des activités à travers des entités nommées organisation \(=structuration de moyens en vue de l'accomplissement d'un but\). Les tribunaux sont des organisations. Dire cela c'est substituer au portrait du juge "la peinture d'un plus vaste paysage où réapparaissent greffiers...". C'est aussi affirmer que l'activité juridictionnelle ne relève pas de la pure technique juridique : l'activité de mise en oeuvre des normes juridiques est conditionnées par les modes de gestion de ces orga particulières que sont les tribunaux.
+#### Les tribunaux: de l'organisation aux politiques de justice \(_in_ "Les institutions de justice"\).
 
-Les tribunaux, des bureaucraties professionnelles: reposent sur le pouvoir qui leur est donné en même temps qu'elles le renforcent \(médecins / hopital ; magistrats / tribunal\).
+Socio des organisation: la coordination des activités à travers des entités nommées organisation \(=structuration de moyens en vue de l'accomplissement d'un but\). Les tribunaux sont des organisations. Dire cela c'est substituer au portrait du juge "la peinture d'un plus vaste paysage où réapparaissent greffiers...". C'est aussi affirmer que l'activité juridictionnelle ne relève pas de la pure technique juridique : l'activité de mise en oeuvre des normes juridiques est conditionnées par les modes de gestion de ces organisations particulières que sont les tribunaux.
+
+Les tribunaux, des bureaucraties professionnelles \(=forme organisée caractéristique du mode de domination légal-rationnel\): reposent sur le pouvoir qui leur est donné en même temps qu'elles le renforcent \(médecins / hopital ; magistrats / tribunal\).
 
 Concernant la France, la justice est largement auto-administrée: les fonctions hiérarchiques en général occupées par des magistrats.
 
 #### Tribunaux et cultures organisationnelles locales
 
 La mise en oeuvre de réformes est hétérogène: le local contribue fortement à définir la portée des normes qui lui parviennent du niveau central, par des mécanismes d'appropriation.
+
+Matériellement, le dossier est ce autour de quoi s'organise et s'intègre le travail des acteurs de justice. Si l'ensemble du système judiciaire est soumis aux même règles, les pratiques peuvent différer d'une juridiction à l'autre, car ces bureaucraties pro. sont relativement isolées les unes des autres, chaque tribunal produit sa propre culture organisationnelle, en fonction de son histoire et de son environnement.
+
+Les effets de l'organisation sur les décisions : le cas du traitement en temps réel \(TTR\). Innovation organisationnelle, d'apparence instrumentale, bouscule le processus de production judiciaire. Le TTR consiste à ce que le parquet traite les demandes de la police par téléphone, en flux continu, là où il procédait avant en différé, par courrier. La police est davantage impliqués dans la construction du dossier, l'impact de l'orientation initiale donnée par le parquet sur la suite de l'affaire est renforcé
+
+#### La justice en tension avec le politique : peut-elle être autre que politique?
+
+La justice ne peut pas être autre que politique, au sens où:
+
+1. elle est liée à un mode d'organisation et de régulation sociopolitique: participe du monopole de la violence légitime, procèdent d'une souveraineté politique et appuyées sur l'ensemble de l'appareil d'Etat. Double légitimité des tribunaux: légitimité juridique \(interne\) / légitimité \(politique\).
+2. elle est orientée en valeur. La conception du rôle de la justice dans la société, à une certaine déf. de la citoyenneté, de l'ordre sociopolitique.
+3. elle est l'enjeu de processus de politisation, font référence aux usages et instrumentalisation de la justice en particulier au profit d'un régime/ses gouvernants. La criminalisation politique de certains faits participe de la fonction symbolique du droit et les usages politiques du procès par les gouvernants peuvent être vus comme des façons d'affirmer un ordre symbolique. Le procès offre en outre une efficacité sociale liée au fait qu'il est aussi un espace de mise en scène du pouvoir qui contribue à la diffusion/imposition d'idées. Justice enrôlée dans la participation à la construction, stabilisation, extension, défense d'un ordre politique.
+
+En somme, la justice et le procès sont au coeur d'une tension entre autonomie/encastrement de la justice dans l'univers social/politique.
 
 ### ▸BESNIER, _La vérité côté cour. Une ethnologue aux assises_, 2017
 
@@ -104,7 +122,15 @@ Il ne s'agit pas de considérer que le droit n'est jamais efficace, au contraire
 
 Le droit joue un rôle déterminant dans les processus de stabilisation de la "réalité", lui-même pris dans une instabilité. Celle-ci est à situer dans un double mouvement: le droit modifié par la mobilisation d'agents sociaux / le droit modifié par ceux en position à l'intérieur de l'Etat. Le pouvoir exécutif s'est considérablement et constamment renforcé au détriment du pouvoir législatif.
 
-* CHRISTIN, _Comparutions immédiates. Enquête sur une pratique judiciaire_, 2008
+### ▸CHRISTIN, _Comparutions immédiates. Enquête sur une pratique judiciaire_, 2008
+
+#### Introduction
+
+La comparution immédiate permet de juger un prévenu en moins d'une journée à partir du moment où il est arrêté et mis en garde à vue par la police. Le suivi du dossier pénal tout au long de la procédure de comparution immédiate est un bon point d'entrée, il se matérialise par une pochette en carton que les services de police ouvrent quand ils arrêtent un individu.
+
+Au début, le dossier concerne une affaire, une infraction précise ancrée dans la réalité. C'est le compte-rendu téléphonique de l'OPJ qui décrit un délit qu'il a vu. Les premiers procès-verbaux sont ajoutés aux recherches menées sur l'identité du prévenu. Si le prévenu est déféré au tribunal, son dossier est apporté au TGI dans le fourgon même qui le transfère. De nouvelles infos sont ajoutés par les substituts, les greffiers, les enquêteurs sociaux sur le passé pénal du prévenu, sa situation sociale, et l'orientation du cas à l'intérieur de l'institution judiciaire. C'est sur ce dossier que les juges, les avocats et les substitut du procureur travailleront en vue du procès. L'instruction lors du procès est menée à partir de ce travail préparatoire.
+
+Substituts, avocats et juges exercent accusation/défense/jugement qui forment un monopole sur la matière légale dont ils se font les interprètes pour les prévenus, qui ne sont que de passage.
 
 #### médias, web
 
