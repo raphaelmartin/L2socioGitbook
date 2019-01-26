@@ -126,11 +126,34 @@ Le droit joue un rôle déterminant dans les processus de stabilisation de la "r
 
 #### Introduction
 
+Instruction du prévenu: 10min  
+Réquisitions du procureur/plaidoirie de l'avocat: 7-8min  
+Délibérations des juges: 30min
+
 La comparution immédiate permet de juger un prévenu en moins d'une journée à partir du moment où il est arrêté et mis en garde à vue par la police. Le suivi du dossier pénal tout au long de la procédure de comparution immédiate est un bon point d'entrée, il se matérialise par une pochette en carton que les services de police ouvrent quand ils arrêtent un individu.
 
 Au début, le dossier concerne une affaire, une infraction précise ancrée dans la réalité. C'est le compte-rendu téléphonique de l'OPJ qui décrit un délit qu'il a vu. Les premiers procès-verbaux sont ajoutés aux recherches menées sur l'identité du prévenu. Si le prévenu est déféré au tribunal, son dossier est apporté au TGI dans le fourgon même qui le transfère. De nouvelles infos sont ajoutés par les substituts, les greffiers, les enquêteurs sociaux sur le passé pénal du prévenu, sa situation sociale, et l'orientation du cas à l'intérieur de l'institution judiciaire. C'est sur ce dossier que les juges, les avocats et les substitut du procureur travailleront en vue du procès. L'instruction lors du procès est menée à partir de ce travail préparatoire.
 
-Substituts, avocats et juges exercent accusation/défense/jugement qui forment un monopole sur la matière légale dont ils se font les interprètes pour les prévenus, qui ne sont que de passage.
+Substituts, avocats et juges exercent accusation/défense/jugement qui forment un monopole sur la matière légale dont ils se font les interprètes pour les prévenus, qui ne sont que de passage. Progressives dématérialisation et réduction du dossier : ce qui se joue à l'audience est largement déterminé par la procédure précédant le procès.
+
+2 dossiers:
+
+* un judiciaire et technique
+* un contextuel et social
+
+#### Des flagrants délits à la comparution immédiate
+
+Cette procédure correctionnelle d'urgence est l'instrument privilégié de l'Etat pour contrôler la petite délinquance urbaine, et par là toutes les populations urbaines qui sont politiquement, économiquement ou socialement marginale. Quel bilan dresser de l'évolution des flagrants délits depuis le 19ème? La cible de cette procédure reste constante: la population urbaine flottante, aux garanties sociales/professionnelles faibles. Malgré cette permanence de la répression de la délinquance urbaine, évolution de la justification ⟹ d'abord technique, puis politique: maitriser les villes, et une manière de rapprocher la sanction de l'infraction dans un but répressif.
+
+Les évolutions:
+
+1. La C.I recourt plus largement à l'incarcération que les autres procédures pénales
+2. Instrument médiatique
+3. Aspect managérial: urgence et quantité des dossiers ⟹ gestion de flux
+
+La C.I inscrit dans l'évolution européenne d'un tournant à l'anglo-saxonnes punitif et managérial.
+
+#### La comparution immédiate au sein du système judiciaire français
 
 #### médias, web
 
