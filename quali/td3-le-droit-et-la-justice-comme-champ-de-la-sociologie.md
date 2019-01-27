@@ -163,7 +163,7 @@ Les policiers ont comme ressource la connaissance du terrain, les seuls à conna
 
 #### Les avocats et leurs "clients"
 
-Objectif des avocats: interpréter le dossier qu'ils ont sous les yeux, à partir de leur rencontre avec le prévenu.
+Objectif des avocats: interpréter le dossier qu'ils ont sous les yeux, à partir de leur rencontre avec le prévenu. Cherchent à individualiser et à comprendre les dossiers, faire ressortir la personne. Travail d'acteur : "se mettre à la place de". Mais manque de temps. Face à la machine du TTR, les avocats se sentent démunis. C'est donc d'abord sur la base du dossier tel qu'il est mis en place par le parquet que le procès va avoir lieu.
 
 #### médias, web
 
